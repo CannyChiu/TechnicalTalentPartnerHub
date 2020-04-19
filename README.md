@@ -1,8 +1,2 @@
 # CareerResources
-Collection of free Career Resource Tools 
-
-Blogs
-
-E-Learning Sites
-
-General Advice on Learning
+Check out the wiki section to find some awesome resources for Career Development!
