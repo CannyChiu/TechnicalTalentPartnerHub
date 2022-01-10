@@ -1,28 +1,17 @@
 # CareerResources
-Check out the wiki section to find some awesome resources for Career Development!
 Looking to upskill as a Technical Recruiter?
-Canny Chiu edited this page 12 days ago · 36 revisions
- Pages 6
-Find a Page…
-Home
-Canny's Life Long Learning Trello
-Diversity, Inclusion & Equity Resources
-Future of Work & Talent Market Intelligence Resource hub
-Looking to upskill as a Technical Recruiter?
-Technology Talent Communities (Job Boards, Slack Channels, Diversity Organizations, Meet ups, etc)
- Add a custom sidebar
-Clone this wiki locally
-https://github.com/CannyChiu/CareerResources.wiki.git
+
 I find recruiting for Engineering & Product quite different from non-technical roles so I wanted to share some of the resources that I have found useful! If you know of any other interesting resources, please feel free to reach out to me and I will include it below!
 
 Communities:
 
-TechRecruit/TalentCongress: https://www.techrecruit.io/ -> Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
-Recruiting Brainfood: https://www.recruitingbrainfood.com/ -> Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles.
-ThePeoplePeopleGroup: https://www.thepeoplepeoplegroup.com/ -> For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals
-The Sourcing Method by Shally Steckerl: https://www.facebook.com/groups/sourcingmethod -> great for next level sourcing tips!
-DiversifyTech: https://www.diversifytech.co/ -> Although not HR related, DiversifyTech is a great hub for inclusion resources, job boards for diverse candidates and events to participate in!
-WizardSourcer: https://wizardsourcer.com/tools/ -> Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
+-TechRecruit/TalentCongress: https://www.techrecruit.io/ -> Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
+-Recruiting Brainfood: https://www.recruitingbrainfood.com/ -> Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles.
+-ThePeoplePeopleGroup: https://www.thepeoplepeoplegroup.com/ -> For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals
+-The Sourcing Method by Shally Steckerl: https://www.facebook.com/groups/sourcingmethod -> great for next level sourcing tips!
+-DiversifyTech: https://www.diversifytech.co/ -> Although not HR related, DiversifyTech is a great hub for inclusion resources, job boards for diverse candidates and events to participate in!
+-WizardSourcer: https://wizardsourcer.com/tools/ -> Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
+
 Video/E-Learning Resources:
 
 Mozilla Developer Resources - great for understanding frameworks: https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks#a_few_good_web_frameworks
