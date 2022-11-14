@@ -29,6 +29,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book)-> Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner) -> Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 * [The Holloway Guide to Equity Compensation ](https://www.holloway.com/g/equity-compensation/about) -> Equity is a huge consideration when joining a company, but equity is a black box for most individuals. Check out this thorough guide on how equity works. I learned lots about concepts like 409A valuations, taxation, public vs. private equity, vesting schedules, stock options vs. RSUs, and much more.
+* [The Culture Map](https://erinmeyer.com/books/the-culture-map/) -> If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
 
 ## **Podcasts:**
 * [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
