@@ -97,6 +97,8 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [The Art of Interviewing 10x Engineers](https://soundcloud.com/greylock-partners/greymatter-podcast-the-art-of-interviewing-10x-engineers)
 * [What is an API?](https://www.youtube.com/watch?v=GZvSYJDk-us)
 * [Software Testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing): Explanation of the various types of software testing that can be done by Developers or QA.
+* [W3C - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/): Brief overview on the importance of web accessibility. WCAG is a well-known compliance standard in the a11y space.
+* [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility): Great resource to better understand how to make software more accessible - introduces topics like ARIA labels, semantic HTML, CSS considerations (color contrast, fonts, etc). 
 * [What exactly is a product-minded engineer?](https://blog.pragmaticengineer.com/the-product-minded-engineer/): I really enjoyed this article. I think engineers get a bad rep as heads-down builders, but the true value of an engineer is solving business problems, NOT writing lines of code.
 * [Hiring Programs](https://lethain.com/bar-raising-hiring-committees-hiring-quality/): A discussion on extra-curricular hiring programs like Bar raisers, hiring committees, and other complex ways to improve hiring quality
 
