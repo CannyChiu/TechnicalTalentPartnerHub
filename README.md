@@ -84,6 +84,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 ## **Campus Recruiting/Early Talent:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
 * [One Req](https://onereq.com/): This recruiting community focuses alot on UR (University Recruiting)- check out the wonderful templates & strategies provided by this organization: campus referral program guidelines, internship extension documents, headcount planning, and more.
+* [HandShake](https://joinhandshake.com/): Great job postings tool to disseminate your postings across American colleges & universities! I used this alot when I supported US campus roles across New York, Illinois, Indiana and Iowa.
 
 ## **Software Engineering:**
 * ["Accelerate: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/): Great resource for understanding the challenges/opportunities of building a strong engineering organization - it tells the story of a fictional company attempting to modernize the way they build applications to support business needs
