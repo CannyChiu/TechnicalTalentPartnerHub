@@ -81,6 +81,10 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 
 **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
+## **Campus Recruiting/Early Talent:**
+* [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
+* [One Req](https://onereq.com/): This recruiting community focuses alot on UR (University Recruiting)- check out the wonderful templates & strategies provided by this organization: campus referral program guidelines, internship extension documents, headcount planning, and more.
+
 ## **Software Engineering:**
 * ["Accelerate: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/): Great resource for understanding the challenges/opportunities of building a strong engineering organization - it tells the story of a fictional company attempting to modernize the way they build applications to support business needs
 * [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book): I just started this book, but I loved the insights of developers on the technical track. It goes through the role expectations of Staff+ Engineers at multiple companies through storytelling by multiple Staff Engineers.
