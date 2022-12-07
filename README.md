@@ -79,6 +79,10 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * On the Truth & Reconciliation Act (Canada): https://nctr.ca/
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
 
+## **A Curated Collection of Articles, Books & Thought pieces on Leadership & Org Design:**
+* [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
+* [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
+
 **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
 ## **Campus Recruiting/Early Talent:**
