@@ -85,7 +85,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [Managers of One](https://about.gitlab.com/handbook/leadership/#making-decisions)-> prior to reading this article, I've never heard of the concept of "Manager of One". I really love how Gitlab highlights the 20 things you need to see a Manager of One. As a Talent Professional, those 20 things really summarize the types of behaviour I would expect from a high performing individual contributor role.
 * [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
 
-##**In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
+## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
 ## **Campus Recruiting/Early Talent:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
