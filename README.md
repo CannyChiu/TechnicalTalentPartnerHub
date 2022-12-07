@@ -29,7 +29,6 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book)-> Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner) -> Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 * [The Holloway Guide to Equity Compensation ](https://www.holloway.com/g/equity-compensation/about) -> Equity is a huge consideration when joining a company, but equity is a black box for most individuals. Check out this thorough guide on how equity works. I learned lots about concepts like 409A valuations, taxation, public vs. private equity, vesting schedules, stock options vs. RSUs, and much more.
-* [The Culture Map](https://erinmeyer.com/books/the-culture-map/) -> If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
 
 ## **Podcasts:**
 * [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
@@ -82,6 +81,8 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 ## **A Curated Collection of Articles, Books & Thought pieces on Leadership & Org Design:**
 * [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
 * [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
+* [The Culture Map](https://erinmeyer.com/books/the-culture-map/) -> If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
+*[Managers of One](https://about.gitlab.com/handbook/leadership/#making-decisions)-> prior to reading this article, I've never heard of the concept of "Manager of One". I really love how Gitlab highlights the 20 things you need to see a Manager of One. As a Talent Professional, those 20 things really summarize the types of behaviour I would expect from a high performing individual contributor role.
 
 **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
