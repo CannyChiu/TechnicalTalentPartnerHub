@@ -52,7 +52,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [TechTO](https://www.techto.org/) - For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
 * [Meetup.com](https://www.meetup.com/) - There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
-## **[Work In-Progress]Talent Market Intelligence Sources:**
+## **Talent Market Intelligence Sources:**
 * Company Insights: https://craft.co/
 * Acquisitions: https://www.crunchbase.com/
 * Layoffs: https://layoffs.fyi/tracker/
@@ -83,8 +83,9 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
 * [The Culture Map](https://erinmeyer.com/books/the-culture-map/) -> If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
 * [Managers of One](https://about.gitlab.com/handbook/leadership/#making-decisions)-> prior to reading this article, I've never heard of the concept of "Manager of One". I really love how Gitlab highlights the 20 things you need to see a Manager of One. As a Talent Professional, those 20 things really summarize the types of behaviour I would expect from a high performing individual contributor role.
+* [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
 
-**In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
+##**In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**##
 
 ## **Campus Recruiting/Early Talent:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
