@@ -113,6 +113,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility): Great resource to better understand how to make software more accessible - introduces topics like ARIA labels, semantic HTML, CSS considerations (color contrast, fonts, etc). 
 * [What exactly is a product-minded engineer?](https://blog.pragmaticengineer.com/the-product-minded-engineer/): I really enjoyed this article. I think engineers get a bad rep as heads-down builders, but the true value of an engineer is solving business problems, NOT writing lines of code.
 * [Hiring Programs](https://lethain.com/bar-raising-hiring-committees-hiring-quality/): A discussion on extra-curricular hiring programs like Bar raisers, hiring committees, and other complex ways to improve hiring quality
+* [Senior vs. Staff vs. Principal Engineers](https://medium.com/commercetools-tech/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34): A comparison about the differences between Senior, Staff and Principal Engineering roles - great read. 
 
 ## **[Work In-Progress]Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
