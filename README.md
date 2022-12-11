@@ -115,9 +115,10 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [Hiring Programs](https://lethain.com/bar-raising-hiring-committees-hiring-quality/): A discussion on extra-curricular hiring programs like Bar raisers, hiring committees, and other complex ways to improve hiring quality
 * [Senior vs. Staff vs. Principal Engineers](https://medium.com/commercetools-tech/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34): A comparison about the differences between Senior, Staff and Principal Engineering roles - great read. 
 
-## **[Work In-Progress]Data Engineering/Data Science:**
+## **Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
 * [What is data engineering? Part 2](https://blog.pragmaticengineer.com/what-is-data-engineering-2/?utm_source=substack&utm_medium=email)
+* [Kaggle - Your Machine Learning and Data Science Community](https://www.kaggle.com/): I would equate Kaggle to the Github/StackOverflow of Data Science. It's a great place to check out data sets, ask questions and network with other Data Science/Data Analytics professionals. They have a really cool progression system as well (https://www.kaggle.com/progression/)!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ## **Product Management:**
@@ -135,7 +136,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * An example of a Design System:https://polaris.shopify.com/ or https://mui.com/
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
-## **[Work In-Progress]Trust & Information Security:**
+## **Trust & Information Security:**
 * NIST frameworks: https://www.nist.gov/
 * Common Cyberattacks: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
 * Tools used in modern day security: https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use
