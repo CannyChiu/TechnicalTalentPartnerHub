@@ -52,13 +52,14 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [TechTO](https://www.techto.org/) - For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
 * [Meetup.com](https://www.meetup.com/) - There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
-## **Talent Market Intelligence Sources:**
+## **Talent Market Intelligence & Data-Oriented Talent Practices:**
 * Company Insights: https://craft.co/
 * Acquisitions: https://www.crunchbase.com/
 * Layoffs: https://layoffs.fyi/tracker/
 * StackOverflow Dev Survey: https://insights.stackoverflow.com/survey/2021 -> Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
 * CBRE - Scoring Top Tech Markets : https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets -> Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * Indeed Hiring Lab: https://www.hiringlab.org/ -> great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
+* [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 
 ## **A Curated Collection of Diversity, Inclusion & Equity related articles:**
 * Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
