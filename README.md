@@ -135,6 +135,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [Nielsen Norman - UX Careers](https://www.nngroup.com/reports/user-experience-careers/): Fantastic overview of UX Careers by Nielsen Norman - talks about skills common to designers, nuances between Designers vs. Researchers, and more.
 * [What is wireframing/prototyping? ](https://medium.com/thinking-design/everything-you-need-to-know-about-wireframes-and-prototypes-76f828a1bcbc)
 * An example of a Design System:https://polaris.shopify.com/ or https://mui.com/
+* [UX Research](https://www.userinterviews.com/ux-research-field-guide-module/ux-research-basics): Great resource breaking down what UX Research entails!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ## **Trust & Information Security:**
