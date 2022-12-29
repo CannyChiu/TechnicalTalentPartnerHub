@@ -90,7 +90,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 
 ## **A Curated Collection of Talent Centre of Excellence Resources for Recruiters:**
 * [How to Create and Manage a Skills Inventory at Your Organization](https://www.aihr.com/blog/skills-inventory/?utm_source=resource&utm_medium=resource&utm_campaign=b2b&utm_content=trend-report-2023): The reality most organizations face is a skills shortage, but recruiting won't fix this problem. How does Talent ensure the business has the inputs needed to succeed as an organization? Consider a Skills Inventory for Talent Development purposes.
-
+* [Human Resources: Compensation and Benefits](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fhuman-resources-compensation-and-benefits%3Ftrk%3Dshare_ent_url%26shareId%3DHolBzgYzS2KPjudxsH0O6g%253D%253D): I wanted to include this resource in this hub because Recruiters need to understand the complexity of Total Reward Systems. I find that compensation is such an emotional topic in the workplace, but understanding compensation strategy helps making compensation decisions more pragmatic. The video talks about competitor surveys, job vs. individual systems, cash vs. total rewards, legislation compliance and more. Definitely recommend for recruiters that are missing the HR background.
 
 ## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
