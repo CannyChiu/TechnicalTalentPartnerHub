@@ -88,6 +88,10 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * [12 Quotes from High Output Management by Andy Grove](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/): For people managers that haven't had a chance to read his book, this article summarizes 12 practices that managers need to execute on to build a high-performing organization. Must read.
 * [a16z's blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf): really interesting points about "summertime soldiers", "vesting in peace" and "mediocre performers". He provides advice on turning around a company through really strategic HR choices.
 
+## **A Curated Collection of Talent Centre of Excellence Resources for Recruiters:**
+* [How to Create and Manage a Skills Inventory at Your Organization](https://www.aihr.com/blog/skills-inventory/?utm_source=resource&utm_medium=resource&utm_campaign=b2b&utm_content=trend-report-2023): The reality most organizations face is a skills shortage, but recruiting won't fix this problem. How does Talent ensure the business has the inputs needed to succeed as an organization? Consider a Skills Inventory for Talent Development purposes.
+
+
 ## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
 ## **Campus Recruiting/Early Talent:**
