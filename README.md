@@ -142,6 +142,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 * An example of a Design System:https://polaris.shopify.com/ or https://mui.com/
 * [UX Research](https://www.userinterviews.com/ux-research-field-guide-module/ux-research-basics): Great resource breaking down what UX Research entails!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
+* [Fixing product design career paths with the Mirror Model](https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547): Some thoughts on the lack of clarity for growth opportunities related to tenured, individual contributor Designers. Proposes a mirroring of the Engineering progression frameworks as a solution. Thought it makes alot of sense given the alignment that occurs between the trifecta (UX/Engineering/Product).
 
 ## **Trust & Information Security:**
 * NIST frameworks: https://www.nist.gov/
