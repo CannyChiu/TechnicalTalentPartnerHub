@@ -2,22 +2,45 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 
 Now that I've spent my first chapters of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, Leadership Management & Total Rewards/Compensation. 
 
-## **Talent Acquisition Communities:**
-* [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
-* [Recruiting Brainfood](https://www.recruitingbrainfood.com/ ): Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles. I believe he is more tapped into the European hiring markets.
-* [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
-* [The Sourcing Method](https://www.facebook.com/groups/sourcingmethod ): Great for next level sourcing tips!
-* [Wizard Sourcer](https://wizardsourcer.com/tools/ ): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
-* [One Req](https://onereq.com/): Great community for recruiting professionals to share tips and tricks! Big focus on Early Talent/Campus Recruiting!
-* [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
+## **A curated collection of Diversity, Inclusion & Equity related articles:**
+* Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
+* On D,E,I terminology: https://blog.ongig.com/diversity-and-inclusion/diversity-terms/
+* On what privilege can look like in day-to-day actions: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
+* On the impact of mispronouncing names: https://ideas.ted.com/have-you-mispronounced-someones-name-heres-what-to-do-next/
+* On what our white allies can do to support us: https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234
+* On Equality vs. Equity: https://publichealthonline.gwu.edu/blog/equity-vs-equality/
+* On concrete examples of micro-aggressions in everyday life: https://www.cnn.com/2020/06/05/health/racial-microaggressions-examples-responses-wellness/index.html
+* On Intersectionality: https://time.com/5560575/intersectionality-theory/
+* 50 Cognitive Biases in the Modern world: https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
+* Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices):https://centreforglobalinclusion.org/The-Centre/gdib-model/
+* Deloitte: Six signature traits of inclusive leaders: https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html 
+* DMIS Model (a model assessing intercultural competencies): https://www.idrinstitute.org/dmis/
+* On the challenges of women in technology**: https://www.hiremorewomenintech.com/
+* On the challenges created for the Indigenous community by the Indian Act: https://www.youtube.com/watch?v=OhBrq7Ez-rQ
+* On the Truth & Reconciliation Act (Canada): https://nctr.ca/
+* How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
 
+## **A curated collection of articles, books & thought pieces on Leadership, Org Design & Talent Management:**
+* [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
+* [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
+* [The Culture Map](https://erinmeyer.com/books/the-culture-map/): If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
+* [Managers of One](https://about.gitlab.com/handbook/leadership/#making-decisions): prior to reading this article, I've never heard of the concept of "Manager of One". I really love how Gitlab highlights the 20 things you need to see a Manager of One. As a Talent Professional, those 20 things really summarize the types of behaviour I would expect from a high performing individual contributor role.
+* [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
+* [12 Quotes from High Output Management by Andy Grove](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/): For people managers that haven't had a chance to read his book, this article summarizes 12 practices that managers need to execute on to build a high-performing organization. Must read.
+* [a16z's blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf): really interesting points about "summertime soldiers", "vesting in peace" and "mediocre performers". He provides advice on turning around a company through really strategic HR choices.
+
+## **A curated collection of resources to better understand Total Rewards/Compensation:**
+* [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
+* [What is Equity by Carta](https://carta.com/equity/learn/what-is-equity/): great resource on understanding equity, cap tables, vesting and more.
+* [The Holloway Guide to Equity Compensation ](https://www.holloway.com/g/equity-compensation/about) -> Equity is a huge consideration when joining a company, but equity is a black box for most individuals. Check out this thorough guide on how equity works. I learned lots about concepts like 409A valuations, taxation, public vs. private equity, vesting schedules, stock options vs. RSUs, and much more.
+
+## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
 ## **Video/E-Learning Resources:**
 * [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
 * [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
 * [Holistica IT Training](https://holistica.co.uk/): Ayub is fantastic, I know he's based in the UK and primarily focuses on training technical recruiters. His content covers tech recruiting in development, IT support/infrastructure, data/machine learning + AI! 
 * [LinkedIn Learning](https://www.linkedin.com/learning/): I'm a huge fan of LinkedIn Learning - I find it's a great resource for all of the soft skills required for successful recruiting (communication skills, problem solving, data analysis, negotiation, project management, diversity, inclusion & belonging, and more). Some public libraries provide LinkedIn Learning subscriptions so you may be able to get the above resource for free.
 * [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
-* [What is Equity by Carta](https://carta.com/equity/learn/what-is-equity/): great resource on understanding equity, cap tables, vesting and more.
 
 ## **Books:**
 * [Powerful by Patty McCord](https://pattymccord.com/book/) -> Great insights into Netflix's culture & HR practices. I subscribe heavily to the professional sports team approach to corporate management so I really enjoyed this book.
@@ -30,7 +53,6 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * ["Full Stack Recruiter" - Jan Tegze ](https://fullstackrecruiter.net/)-> Teaches you about sourcing across various channels like Github/Facebook/Meet-up/etc.
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book)-> Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner) -> Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
-* [The Holloway Guide to Equity Compensation ](https://www.holloway.com/g/equity-compensation/about) -> Equity is a huge consideration when joining a company, but equity is a black box for most individuals. Check out this thorough guide on how equity works. I learned lots about concepts like 409A valuations, taxation, public vs. private equity, vesting schedules, stock options vs. RSUs, and much more.
 
 ## **Podcasts:**
 * [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
@@ -63,35 +85,14 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * Indeed Hiring Lab: https://www.hiringlab.org/ -> great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
 * [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 
-## **A Curated Collection of Diversity, Inclusion & Equity related articles:**
-* Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
-* On D,E,I terminology: https://blog.ongig.com/diversity-and-inclusion/diversity-terms/
-* On what privilege can look like in day-to-day actions: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
-* On the impact of mispronouncing names: https://ideas.ted.com/have-you-mispronounced-someones-name-heres-what-to-do-next/
-* On what our white allies can do to support us: https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234
-* On Equality vs. Equity: https://publichealthonline.gwu.edu/blog/equity-vs-equality/
-* On concrete examples of micro-aggressions in everyday life: https://www.cnn.com/2020/06/05/health/racial-microaggressions-examples-responses-wellness/index.html
-* On Intersectionality: https://time.com/5560575/intersectionality-theory/
-* 50 Cognitive Biases in the Modern world: https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
-* Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices):https://centreforglobalinclusion.org/The-Centre/gdib-model/
-* Deloitte: Six signature traits of inclusive leaders: https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html 
-* DMIS Model (a model assessing intercultural competencies): https://www.idrinstitute.org/dmis/
-* On the challenges of women in technology**: https://www.hiremorewomenintech.com/
-* On the challenges created for the Indigenous community by the Indian Act: https://www.youtube.com/watch?v=OhBrq7Ez-rQ
-* On the Truth & Reconciliation Act (Canada): https://nctr.ca/
-* How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
-
-## **A Curated Collection of Articles, Books & Thought pieces on Leadership & Org Design:**
-* [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
-* [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
-* [The Culture Map](https://erinmeyer.com/books/the-culture-map/): If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
-* [Managers of One](https://about.gitlab.com/handbook/leadership/#making-decisions): prior to reading this article, I've never heard of the concept of "Manager of One". I really love how Gitlab highlights the 20 things you need to see a Manager of One. As a Talent Professional, those 20 things really summarize the types of behaviour I would expect from a high performing individual contributor role.
-* [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
-* [12 Quotes from High Output Management by Andy Grove](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/): For people managers that haven't had a chance to read his book, this article summarizes 12 practices that managers need to execute on to build a high-performing organization. Must read.
-* [a16z's blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf): really interesting points about "summertime soldiers", "vesting in peace" and "mediocre performers". He provides advice on turning around a company through really strategic HR choices.
-
-## **A Curated Collection of resources to better understand Total Rewards/Compensation:**
-* [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
+## **Talent Acquisition Communities:**
+* [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
+* [Recruiting Brainfood](https://www.recruitingbrainfood.com/ ): Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles. I believe he is more tapped into the European hiring markets.
+* [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
+* [The Sourcing Method](https://www.facebook.com/groups/sourcingmethod ): Great for next level sourcing tips!
+* [Wizard Sourcer](https://wizardsourcer.com/tools/ ): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
+* [One Req](https://onereq.com/): Great community for recruiting professionals to share tips and tricks! Big focus on Early Talent/Campus Recruiting!
+* [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 
 ## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
