@@ -15,7 +15,7 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices):https://centreforglobalinclusion.org/The-Centre/gdib-model/
 * Deloitte: Six signature traits of inclusive leaders: https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html 
 * DMIS Model (a model assessing intercultural competencies): https://www.idrinstitute.org/dmis/
-* On the challenges of women in technology**: https://www.hiremorewomenintech.com/
+* On the challenges of women in technology: https://www.hiremorewomenintech.com/
 * On the challenges created for the Indigenous community by the Indian Act: https://www.youtube.com/watch?v=OhBrq7Ez-rQ
 * On the Truth & Reconciliation Act (Canada): https://nctr.ca/
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
@@ -28,6 +28,9 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
 * [12 Quotes from High Output Management by Andy Grove](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/): For people managers that haven't had a chance to read his book, this article summarizes 12 practices that managers need to execute on to build a high-performing organization. Must read.
 * [a16z's blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf): really interesting points about "summertime soldiers", "vesting in peace" and "mediocre performers". He provides advice on turning around a company through really strategic HR choices.
+* [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
+* [Why T-shaped people?](https://jchyip.medium.com/why-t-shaped-people-e8706198e437): As someone that has spent the early part of his career believing specialization is the key to success, I've reflected on this article and realized I was probably wrong. I think truly successful people are "T-shaped" and not "I-shaped". I've used this reflection to help drive my 2023 learning goals -> I'll be leaning out on recruiting and doubling down on the rest of my Talent Stack.
+
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
 * [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
@@ -43,7 +46,6 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
 
 ## **Books:**
-* [Powerful by Patty McCord](https://pattymccord.com/book/) -> Great insights into Netflix's culture & HR practices. I subscribe heavily to the professional sports team approach to corporate management so I really enjoyed this book.
 * ["The Fourth Industrial Revolution" - Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab) -> Great insights into where the world may head due to various changes happening in technology
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/) -> This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
 * ["UltraLearning" - Scott Young](https://www.scotthyoung.com/blog/ultralearning/) -> A core skill of ANY career path is the ability to learn. This is a great book for the tools needed to stay ahead of the industry and become a life-long learner.
@@ -83,7 +85,6 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * StackOverflow Dev Survey: https://insights.stackoverflow.com/survey/2021 -> Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
 * CBRE - Scoring Top Tech Markets : https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets -> Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * Indeed Hiring Lab: https://www.hiringlab.org/ -> great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
-* [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 
 ## **Talent Acquisition Communities:**
 * [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
