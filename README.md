@@ -1,4 +1,6 @@
-Over the last 5 years, I've really enjoyed partnering with UX, Security, Product, Engineering & Data teams to build great, global products. I love what I do so I've compiled a list of interesting articles that cover many topics across talent & tech. If you know of any other interesting resources, please feel free to reach out to me and I will include it below!
+Over the last 5 years, I've really enjoyed partnering with UX, Security, Product, Engineering & Data teams to build great, global products as a Recruiter. By sharing these resources with the world, I hope to empower other Recruiters to be true talent PARTNERS to the businesses they support and ultimately help build life changing products. If you're looking to stay connected, feel free to reach out to [me](https://www.linkedin.com/in/cannychiu/).
+
+Now that I've spent my first chapters of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, Leadership Management & Total Rewards/Compensation. 
 
 ## **Talent Acquisition Communities:**
 * [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
