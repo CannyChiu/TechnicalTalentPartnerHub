@@ -2,7 +2,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Product
 
 Now that I've spent my first chapters of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, Leadership Management & Total Rewards/Compensation. 
 
-## **A curated collection of Diversity, Inclusion & Equity related articles:**
+## **A curated collection pf resources on Diversity, Inclusion & Equity:**
 * Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
 * On D,E,I terminology: https://blog.ongig.com/diversity-and-inclusion/diversity-terms/
 * On what privilege can look like in day-to-day actions: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
@@ -20,7 +20,7 @@ Now that I've spent my first chapters of my talent career honing my recruiting s
 * On the Truth & Reconciliation Act (Canada): https://nctr.ca/
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
 
-## **A curated collection of articles, books & thought pieces on Leadership, Org Design & Talent Management:**
+## **A curated collection of resources on Leadership, Org Design & Talent Management:**
 * [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
 * [Drive by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc): Daniel Pink shares a 10 minute video on what factors lead to high performance for creative work. Spoiler alert: it's not pay. It's Mastery, Autonomy & Purpose.
 * [The Culture Map](https://erinmeyer.com/books/the-culture-map/): If you work in any global team with different cultures or ways of life, this is a MUST read. It dives deeper into the differences between cultures on a number of different dimensions with great examples of no-nos when interacting with multicultural teams.
