@@ -19,6 +19,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * On the challenges created for the Indigenous community by the Indian Act: https://www.youtube.com/watch?v=OhBrq7Ez-rQ
 * On the Truth & Reconciliation Act (Canada): https://nctr.ca/
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
+* [Designing for Ramadan 2023](https://www.gouldstudio.com/insights/designing-for-ramadan-2023): Really great read on Ramadan, the pre and post activities and how organizations can build services & products that are inclusive to this community.
 
 ## **A curated collection of resources on Leadership, Org Design & Talent Management:**
 * [Netflix Culture](https://review.firstround.com/The-woman-behind-the-Netflix-Culture-doc): Very interesting perspectives from Patty McCord on what it took to build Netflix's unique culture (sports team, talent density, no performance bonuses, top of market pay, etc). She was the CHRO of Netflix. Netflix produced the Netflix culture deck that has circulated the tech space for a number of years.
