@@ -32,6 +32,9 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 * [Why T-shaped people?](https://jchyip.medium.com/why-t-shaped-people-e8706198e437): As someone that has spent the early part of his career believing specialization is the key to success, I've reflected on this article and realized I was probably wrong. I think truly successful people are "T-shaped" and not "I-shaped". I've used this reflection to help drive my 2023 learning goals -> I'll be leaning out on recruiting and doubling down on the rest of my Talent Stack.
 
+## **A curated collection of resources on Leadership, Org Design & Talent Management:**
+* [Tackling the HR digitalization challenge: key factors and barriers to HR Analytics adoption](https://upcommons.upc.edu/bitstream/handle/2117/332828/HR%20digitalization%20challenge.pdf?sequence=3): a research paper on the common challenges in People Analytics.
+
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
 * [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
 * [What is Equity by Carta](https://carta.com/equity/learn/what-is-equity/): great resource on understanding equity, cap tables, vesting and more.
