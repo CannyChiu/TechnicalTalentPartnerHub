@@ -1,6 +1,6 @@
 Over the last 5 years, I've really enjoyed partnering with UX, Security, Internal IT, Product, Engineering & Data teams as a Recruiter. By sharing these resources with the world, I hope to empower other Recruiters to be true talent PARTNERS to the businesses they support and ultimately help build life changing products. If you're looking to stay connected, feel free to reach out to [me](https://www.linkedin.com/in/cannychiu/).
 
-Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, Organizational Development, and Total Rewards & Compensation. 
+Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, People Analytics, and Total Rewards & Compensation. 
 
 ## **A curated collection pf resources on Diversity, Inclusion & Equity:**
 * Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
