@@ -160,6 +160,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * Common Cyberattacks: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
 * Tools used in modern day security: https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use
 * Types of careers in Infosecurity: https://www.techtarget.com/whatis/feature/5-top-cybersecurity-careers
+* [Cybersecurity Role Map](https://shellsharks.com/cybersecurity-role-map#title): Fantastic mind map that tries to differentiate the multitude of career paths in the Trust/Infosec space. Not many people know about the depth and breadth in Security: Security Engineering, Network Security Legal, Fraud Ops, Physical Security, Compliance, and much much more.
 * OWASP - nonprofit geared towards application security: https://owasp.org/
 
 I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
