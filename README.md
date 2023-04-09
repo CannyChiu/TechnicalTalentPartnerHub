@@ -2,7 +2,7 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Interna
 
 Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, People Analytics, and Total Rewards & Compensation. 
 
-## **A curated collection pf resources on Diversity, Inclusion & Equity:**
+## **A curated collection of resources on Diversity, Inclusion & Equity:**
 * Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
 * On D,E,I terminology: https://blog.ongig.com/diversity-and-inclusion/diversity-terms/
 * On what privilege can look like in day-to-day actions: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
@@ -31,6 +31,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [a16z's blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf): really interesting points about "summertime soldiers", "vesting in peace" and "mediocre performers". He provides advice on turning around a company through really strategic HR choices.
 * [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 * [Why T-shaped people?](https://jchyip.medium.com/why-t-shaped-people-e8706198e437): As someone that has spent the early part of his career believing specialization is the key to success, I've reflected on this article and realized I was probably wrong. I think truly successful people are "T-shaped" and not "I-shaped". I've used this reflection to help drive my 2023 learning goals -> I'll be leaning out on recruiting and doubling down on the rest of my Talent Stack.
+* [The Fullstack HR professional](https://joshbersin.com/2019/11/the-full-stack-hr-professional/): As a follow-up to the above resource, Josh Bersin has written a wonderful thoughtpiece on what it takes to be a Full-Stack HR professional.
 
 ## **A curated collection of resources on People Analytics:**
 * [Tackling the HR digitalization challenge: key factors and barriers to HR Analytics adoption](https://upcommons.upc.edu/bitstream/handle/2117/332828/HR%20digitalization%20challenge.pdf?sequence=3): a research paper on the common challenges in People Analytics.
