@@ -45,6 +45,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Immigration 101](https://quip.com/Y0rRAWZrVReG): Immigration/Mobility programs are sometimes offered as a condition of employment. This document from Homebrew gives some context for HR professionals on the process of sponsorship in the United States and an overview of the various types of VISAs (H1B, O-1, F1, TN, etc).
 * [Department of Labor - US - Minimum Wage Laws by State](https://www.dol.gov/agencies/whd/minimum-wage/state): This federal website breaks down the minimum wage laws across every US state. Can serve as a source of truth.
 * [Economic Research Institute](https://www.erieri.com/dlc/course/federal-employment-laws-that-impact-compensation-and-benefits): ERIERI provides many free compensation courses for US Talent practioniners. Sharing this course as it covers the major federal legislation related to Total Rewards in the United States: Fair Labor Standards Act, Equal Pay Act, Americans with Disabilities Act, Civil Rights Act, National Labor Relations Act, and more. 
+* [Sales Commission Glossary](https://www.performio.co/insight/sales-commission-glossary): The world of Sales Compensation is more nuanced than comp for non-incentived corporate roles. I thought this glossary was a good explanation of common terms found in the space of incentivized compensation programs.
 
 ## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
 ## **Video/E-Learning Resources:**
