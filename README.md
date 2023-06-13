@@ -32,6 +32,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Tableau on Tableau - HR Analytics](https://www.tableau.com/learn/webinars/tableau-tableau-human-resources#video): Kylie from Tableau walks us through an example of how HR is data-oriented. She walks us through data visualizations related to recruiting funnel, performance management, DEI metrics, compensation & market data, attrition reporting. Really great video that covers basic data categories to dive into when assessing the health of an organization. 
 * [Why T-shaped people?](https://jchyip.medium.com/why-t-shaped-people-e8706198e437): As someone that has spent the early part of his career believing specialization is the key to success, I've reflected on this article and realized I was probably wrong. I think truly successful people are "T-shaped" and not "I-shaped". I've used this reflection to help drive my 2023 learning goals -> I'll be leaning out on recruiting and doubling down on the rest of my Talent Stack.
 * [The Fullstack HR professional](https://joshbersin.com/2019/11/the-full-stack-hr-professional/): As a follow-up to the above resource, Josh Bersin has written a wonderful thoughtpiece on what it takes to be a Full-Stack HR professional.
+* [Hyper Island Toolbox](https://toolbox.hyperisland.com/): Fantastic hub of different faciliation techniques and team buildings.
 
 ## **A curated collection of resources on People Analytics:**
 * [Tackling the HR digitalization challenge: key factors and barriers to HR Analytics adoption](https://upcommons.upc.edu/bitstream/handle/2117/332828/HR%20digitalization%20challenge.pdf?sequence=3): a research paper on the common challenges in People Analytics.
@@ -46,7 +47,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Department of Labor - US - Minimum Wage Laws by State](https://www.dol.gov/agencies/whd/minimum-wage/state): This federal website breaks down the minimum wage laws across every US state. Can serve as a source of truth.
 * [Economic Research Institute](https://www.erieri.com/dlc/course/federal-employment-laws-that-impact-compensation-and-benefits): ERIERI provides many free compensation courses for US Talent practioniners. Sharing this course as it covers the major federal legislation related to Total Rewards in the United States: Fair Labor Standards Act, Equal Pay Act, Americans with Disabilities Act, Civil Rights Act, National Labor Relations Act, and more. 
 * [Sales Commission Glossary](https://www.performio.co/insight/sales-commission-glossary): The world of Sales Compensation is more nuanced than comp for non-incentived corporate roles. I thought this glossary was a good explanation of common terms found in the space of incentivized compensation programs.
-* [Hyper Island Toolbox](https://toolbox.hyperisland.com/): Fantastic hub of different faciliation techniques and team buildings.
+* [The Differences Between Median vs. Mean](https://www.erieri.com/blog/post/what-is-the-difference-between-median-and-mean-salary#:~:text=The%20median%20salary%20is%20considered,the%20overall%20group%20of%20employees.): very clear explanation of the implications of using "mean" vs. "median" in HR data analysis.
+
 
 ## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
 ## **Video/E-Learning Resources:**
