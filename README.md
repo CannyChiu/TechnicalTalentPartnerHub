@@ -173,6 +173,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 ## **Sales/GTM organizations:**
 * [3 Sales Organization Structures](https://blog.close.com/sales-management-3-models-of-sales-team-organization/): interesting perspective on the evolvement of GTM org design. Intro article for those newer to this business.
 * [The Hunter vs. Farmer Sales Model](https://blog.close.com/hunter-farmer-sales/): introduction to the hunter vs. farmer references in sales. TLDR; it's the idea that some roles focus on closing deals and other roles focus on relationship management and extending the life time value of a customer.
+* [Inbound vs. Outbound Sales](https://blog.close.com/inbound-or-outbound-sales/)
 
 I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
 ## [Work In-Progress] Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
