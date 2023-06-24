@@ -170,6 +170,9 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Cybersecurity Role Map](https://shellsharks.com/cybersecurity-role-map#title): Fantastic mind map that tries to differentiate the multitude of career paths in the Trust/Infosec space. Not many people know about the depth and breadth in Security: Security Engineering, Network Security Legal, Fraud Ops, Physical Security, Compliance, and much much more.
 * OWASP - nonprofit geared towards application security: https://owasp.org/
 
+## **Sales/GTM organizations:**
+*[3 Sales Organization Structures](https://blog.close.com/sales-management-3-models-of-sales-team-organization/): interesting perspective on the evolvement of GTM org design. Intro article for those newer to this business.
+
 I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
 ## [Work In-Progress] Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
 * [Source](https://github.com/CannyChiu/TechnicalRecruitingHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc))
