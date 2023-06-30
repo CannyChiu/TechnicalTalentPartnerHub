@@ -34,9 +34,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Why T-shaped people?](https://jchyip.medium.com/why-t-shaped-people-e8706198e437): As someone that has spent the early part of his career believing specialization is the key to success, I've reflected on this article and realized I was probably wrong. I think truly successful people are "T-shaped" and not "I-shaped". I've used this reflection to help drive my 2023 learning goals -> I'll be leaning out on recruiting and doubling down on the rest of my Talent Stack.
 * [The Fullstack HR professional](https://joshbersin.com/2019/11/the-full-stack-hr-professional/): As a follow-up to the above resource, Josh Bersin has written a wonderful thoughtpiece on what it takes to be a Full-Stack HR professional.
 * [Hyper Island Toolbox](https://toolbox.hyperisland.com/): Fantastic hub of different faciliation techniques and team buildings.
+* [HR Business Partners and Centers of Expertise](https://www2.deloitte.com/br/en/pages/human-capital/articles/hr-business-partners-and-centers-of-expertise.html): a quick summary about the roles of HRBPs compared to HR CoEs such as recruiting, learning, total rewards.
 
-## **A curated collection of resources on People Analytics:**
-* [Tackling the HR digitalization challenge: key factors and barriers to HR Analytics adoption](https://upcommons.upc.edu/bitstream/handle/2117/332828/HR%20digitalization%20challenge.pdf?sequence=3): a research paper on the common challenges in People Analytics.
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
 * [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
