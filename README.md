@@ -16,7 +16,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * Deloitte: Six signature traits of inclusive leaders: https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html 
 * DMIS Model (a model assessing intercultural competencies): https://www.idrinstitute.org/dmis/
 * On the challenges of women in technology: https://www.hiremorewomenintech.com/
-* On the challenges created for the Indigenous community by the Indian Act: https://www.youtube.com/watch?v=OhBrq7Ez-rQ
 * On the Truth & Reconciliation Act (Canada): https://nctr.ca/
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
 * [Designing for Ramadan 2023](https://www.gouldstudio.com/insights/designing-for-ramadan-2023): Really great read on Ramadan, the pre and post activities and how organizations can build services & products that are inclusive to this community.
@@ -35,6 +34,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [The Fullstack HR professional](https://joshbersin.com/2019/11/the-full-stack-hr-professional/): As a follow-up to the above resource, Josh Bersin has written a wonderful thoughtpiece on what it takes to be a Full-Stack HR professional.
 * [Hyper Island Toolbox](https://toolbox.hyperisland.com/): Fantastic hub of different faciliation techniques and team buildings.
 * [HR Business Partners and Centers of Expertise](https://www2.deloitte.com/br/en/pages/human-capital/articles/hr-business-partners-and-centers-of-expertise.html): a quick summary about the roles of HRBPs compared to HR CoEs such as recruiting, learning, total rewards.
+* [Talking Heads: HR as a Source of Value](https://www.youtube.com/watch?v=dVDZ7xFy4rY&t=1658s): great conversation between Dave and Loren (who is the CHRO of Lego, but prev CRO) about business acumen and HR adding value to the business. Great point on HR being stuck in traditional annual cycles and processes where as the north star needs to be value creation for the business group they support. How can we build better Talent professionals?
 
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
