@@ -2,6 +2,10 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Interna
 
 Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, People Analytics, and Total Rewards & Compensation. 
 
+## **[WIP]A curated collection of resources on Generative AI on HR:**
+* [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/): Josh highlights some of the interesting use cases of AI in HR. Super interesting to see how these technologies impact all parts of HR from recruiting, learning & development, HR shared services, and more.
+
+
 ## **A curated collection of resources on Diversity, Inclusion & Equity:**
 * [Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian)](https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace): shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
 * [Diversity Terminology](https://blog.ongig.com/diversity-and-inclusion/diversity-terms/): On D,E,I terminology.
