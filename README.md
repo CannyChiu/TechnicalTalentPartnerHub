@@ -3,20 +3,16 @@ Over the last 5 years, I've really enjoyed partnering with UX, Security, Interna
 Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, People Analytics, and Total Rewards & Compensation. 
 
 ## **A curated collection of resources on Diversity, Inclusion & Equity:**
-* Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian): https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace -> shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
-* On D,E,I terminology: https://blog.ongig.com/diversity-and-inclusion/diversity-terms/
-* On what privilege can look like in day-to-day actions: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
-* On the impact of mispronouncing names: https://ideas.ted.com/have-you-mispronounced-someones-name-heres-what-to-do-next/
-* On what our white allies can do to support us: https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234
+* [Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian)](https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace): shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
+* [Diversity Terminology](https://blog.ongig.com/diversity-and-inclusion/diversity-terms/): On D,E,I terminology.
+* [What does privilege look like?](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf): On what privilege can look like in day-to-day actions.  
 * On Equality vs. Equity: https://publichealthonline.gwu.edu/blog/equity-vs-equality/
-* On concrete examples of micro-aggressions in everyday life: https://www.cnn.com/2020/06/05/health/racial-microaggressions-examples-responses-wellness/index.html
 * On Intersectionality: https://time.com/5560575/intersectionality-theory/
 * 50 Cognitive Biases in the Modern world: https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
 * Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices):https://centreforglobalinclusion.org/The-Centre/gdib-model/
 * Deloitte: Six signature traits of inclusive leaders: https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html 
 * DMIS Model (a model assessing intercultural competencies): https://www.idrinstitute.org/dmis/
-* On the challenges of women in technology: https://www.hiremorewomenintech.com/
-* On the Truth & Reconciliation Act (Canada): https://nctr.ca/
+* [On the challenges of women in technology](https://www.hiremorewomenintech.com/) 
 * How to talk about pronouns at work: https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide
 * [Designing for Ramadan 2023](https://www.gouldstudio.com/insights/designing-for-ramadan-2023): Really great read on Ramadan, the pre and post activities and how organizations can build services & products that are inclusive to this community.
 * [Rivers to Success](https://riverstosuccess.ca/indspire-climbing-the-mountain-for-employees): Great 30 minute course for non-indigenous employees to better understand history around our indigenous communities. I find that our media fails to really provide adequate coverage of Indigenous history so I strongly recommend for individuals to be proactive with their own education.
