@@ -4,7 +4,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 
 ## **[WIP]A curated collection of resources on Generative AI on HR:**
 * [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/): Josh highlights some of the interesting use cases of AI in HR. Super interesting to see how these technologies impact all parts of HR from recruiting, learning & development, HR shared services, and more.
-
+* [21+ ChatGPT Prompts for HR To Accelerate Your Productivity](https://www.aihr.com/blog/chatgpt-prompts-for-hr/#Before): provides training on how to format your prompts to get better responses in addition to providing chatGPT prompt templates for different parts of HR.
 
 ## **A curated collection of resources on Diversity, Inclusion & Equity:**
 * [Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian)](https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace): shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
