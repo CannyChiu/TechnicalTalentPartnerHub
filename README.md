@@ -155,10 +155,11 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 ## **UX/Product Design/Product Research:**
 * [A collection of various company's design principles ](https://www.designprinciplesftw.com/)
 * [Nielsen Norman - UX Careers](https://www.nngroup.com/reports/user-experience-careers/): Fantastic overview of UX Careers by Nielsen Norman - talks about skills common to designers, nuances between Designers vs. Researchers, and more.
+* [UX Design vs UI Design](https://www.youtube.com/watch?app=desktop&v=5CxXhyhT6Fc): Short 10 minute video on the main differences between the two fields. The reality is that most organizations combine the roles, but UX and UI are different skills technically. UI is about the visual components of an experience (typography, colors, spacing, information architecture) and UX is about the user journey (think emotions, personas).
+* [What is a Design Sprint](https://medium.com/@adam.fard/ux-design-sprint-setting-it-up-for-success-9a00de8069f8): Super common term thrown around in the design world - TLDR: a design sprint is a condensed 5 day cycle where a team of designers will go from ideation to testing with users. I almost see it as a 5 day hackathon.
 * [What is wireframing/prototyping? ](https://medium.com/thinking-design/everything-you-need-to-know-about-wireframes-and-prototypes-76f828a1bcbc)
 * An example of a Design System:https://polaris.shopify.com/ or https://mui.com/
 * [UX Research](https://www.userinterviews.com/ux-research-field-guide-module/ux-research-basics): Great resource breaking down what UX Research entails!
-* [Career Progression frameworks in the tech space](https://progression.fyi/)
 * [Fixing product design career paths with the Mirror Model](https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547): Some thoughts on the lack of clarity for growth opportunities related to tenured, individual contributor Designers. Proposes a mirroring of the Engineering progression frameworks as a solution. Thought it makes alot of sense given the alignment that occurs between the trifecta (UX/Engineering/Product).
 
 ## **Trust & Information Security:**
