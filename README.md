@@ -2,7 +2,7 @@ Over the last 6 years, I've really enjoyed partnering with UX, Security, Interna
 
 Now that I've spent my first chapter of my talent career honing my recruiting stack, I've been spending my energy expanding my ["T"](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) and investing in the areas of Diversity & Inclusion, People Analytics, and Total Rewards & Compensation. 
 
-## **[WIP]A curated collection of resources on Generative AI on HR:**
+## **[WIP]A curated collection of resources on Generative AI in HR:**
 * [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/): Josh highlights some of the interesting use cases of AI in HR. Super interesting to see how these technologies impact all parts of HR from recruiting, learning & development, HR shared services, and more.
 * [21+ ChatGPT Prompts for HR To Accelerate Your Productivity](https://www.aihr.com/blog/chatgpt-prompts-for-hr/#Before): provides training on how to format your prompts to get better responses in addition to providing chatGPT prompt templates for different parts of HR.
 
@@ -10,13 +10,13 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian)](https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace): shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
 * [Diversity Terminology](https://blog.ongig.com/diversity-and-inclusion/diversity-terms/): On D,E,I terminology.
 * [What does privilege look like?](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf): On what privilege can look like in day-to-day actions.  
-* [On Equality vs. Equity] (https://publichealthonline.gwu.edu/blog/equity-vs-equality/)
+* [On Equality vs. Equity](https://publichealthonline.gwu.edu/blog/equity-vs-equality/)
 * [On Intersectionality](https://time.com/5560575/intersectionality-theory/)
-* [50 Cognitive Biases in the Modern world] (https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
+* [50 Cognitive Biases in the Modern world](https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
 * [Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices)](https://centreforglobalinclusion.org/The-Centre/gdib-model/)
-* [Deloitte: Six signature traits of inclusive leaders] (https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html) 
+* [Deloitte: Six signature traits of inclusive leaders](https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html) 
 * [On the challenges of women in technology](https://www.hiremorewomenintech.com/) 
-* [How to talk about pronouns at work] (https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide)
+* [How to talk about pronouns at work](https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide)
 * [Designing for Ramadan 2023](https://www.gouldstudio.com/insights/designing-for-ramadan-2023): Really great read on Ramadan, the pre and post activities and how organizations can build services & products that are inclusive to this community.
 * [Rivers to Success](https://riverstosuccess.ca/indspire-climbing-the-mountain-for-employees): Great 30 minute course for non-indigenous employees to better understand history around our indigenous communities. I find that our media fails to really provide adequate coverage of Indigenous history so I strongly recommend for individuals to be proactive with their own education.
 
@@ -50,15 +50,15 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Paychex - basic benefits a Company must provide (US)](https://www.paychex.com/articles/employee-benefits/employee-benefits-a-company-must-provide): great summary of mandatary US benefits for FTE based employees: Workers Comp, Unemployment Insurance, Social Security, Medicare, FLMA, etc. Note: companies can choose to go above and beyond to attract talent - 401k + PTO programs are prime examples of benefits that are "standard" to remain competitive.
 
 
-### **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
-#### **Video/E-Learning Resources:**
+## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
+### **Video/E-Learning Resources:**
 * [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
 * [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
 * [Holistica IT Training](https://holistica.co.uk/): Ayub is fantastic, I know he's based in the UK and primarily focuses on training technical recruiters. His content covers tech recruiting in development, IT support/infrastructure, data/machine learning + AI! 
 * [LinkedIn Learning](https://www.linkedin.com/learning/): I'm a huge fan of LinkedIn Learning - I find it's a great resource for all of the soft skills required for successful recruiting (communication skills, problem solving, data analysis, negotiation, project management, diversity, inclusion & belonging, and more). Some public libraries provide LinkedIn Learning subscriptions so you may be able to get the above resource for free.
 * [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
 
-## **Books:**
+### **Books:**
 * ["The Fourth Industrial Revolution" - Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab) -> Great insights into where the world may head due to various changes happening in technology
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/) -> This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
 * ["UltraLearning" - Scott Young](https://www.scotthyoung.com/blog/ultralearning/) -> A core skill of ANY career path is the ability to learn. This is a great book for the tools needed to stay ahead of the industry and become a life-long learner.
@@ -69,13 +69,13 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book)-> Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner) -> Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 
-## **Podcasts:**
+### **Podcasts:**
 * [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
 * [MATT ALDER: Recruiting Future](https://recruitingfuture.com/)
 * [HIRED: Talk Talent To Me ](https://hired.com/blog/employers/talk-talent-to-me-recruiting-podcast/)
 * [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
 
-## **Blogs or news sites to follow tech news/trends:**
+### **Blogs or news sites to follow tech news/trends:**
 
 * [BetaKit](https://betakit.com/)
 * [TechCrunch](https://techcrunch.com/)
@@ -84,14 +84,14 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [InfoQ](https://www.infoq.com/)-> Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com)-> Great for big tech intel and opinion pieces on engineering related topics.
 
-## **Tech Conferences & Events to Check Out:**
+### **Tech Conferences & Events to Check Out:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world!
 * [Collision](https://collisionconf.com/) - one of North America's largest tech conferences!
 * [Elevate Tech Fest](https://elevate.ca/) - awesome tech conference hosted in Toronto!
 * [TechTO](https://www.techto.org/) - For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
 * [Meetup.com](https://www.meetup.com/) - There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
-## **Talent Market Intelligence & Data-Oriented Talent Practices:**
+### **Talent Market Intelligence & Data-Oriented Talent Practices:**
 * Company Insights: https://craft.co/
 * Acquisitions: https://www.crunchbase.com/
 * Layoffs: https://layoffs.fyi/tracker/
@@ -99,7 +99,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * CBRE - Scoring Top Tech Markets : https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets -> Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * Indeed Hiring Lab: https://www.hiringlab.org/ -> great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
 
-## **Talent Acquisition Communities:**
+### **Talent Acquisition Communities:**
 * [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
 * [Recruiting Brainfood](https://www.recruitingbrainfood.com/ ): Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles. I believe he is more tapped into the European hiring markets.
 * [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
@@ -110,12 +110,12 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 
 ## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
 
-## **Campus Recruiting/Early Talent:**
+### **Campus Recruiting/Early Talent:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
 * [One Req](https://onereq.com/): This recruiting community focuses alot on UR (University Recruiting)- check out the wonderful templates & strategies provided by this organization: campus referral program guidelines, internship extension documents, headcount planning, and more.
 * [HandShake](https://joinhandshake.com/): Great job postings tool to disseminate your postings across American colleges & universities! I used this alot when I supported US campus roles across New York, Illinois, Indiana and Iowa.
 
-## **Software Engineering:**
+### **Software Engineering:**
 * ["Accelerate: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/): Great resource for understanding the challenges/opportunities of building a strong engineering organization - it tells the story of a fictional company attempting to modernize the way they build applications to support business needs
 * [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book): I just started this book, but I loved the insights of developers on the technical track. It goes through the role expectations of Staff+ Engineers at multiple companies through storytelling by multiple Staff Engineers.
 * [Technically](https://technically.substack.com/): Great 101 on software engineering topics like Kakfa, noSQL, APIs, etc.
@@ -137,13 +137,13 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Senior vs. Staff vs. Principal Engineers](https://medium.com/commercetools-tech/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34): A comparison about the differences between Senior, Staff and Principal Engineering roles - great read. 
 * [DevRel Collective](https://devrelcollective.fun/#resources): A great summary of blogs, resources and communities related to Dev Rel & Dev Advocacy. Great for recruiters that work in developer facing product companies!
 
-## **Data Engineering/Data Science:**
+### **Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
 * [What is data engineering? Part 2](https://blog.pragmaticengineer.com/what-is-data-engineering-2/?utm_source=substack&utm_medium=email)
 * [Kaggle - Your Machine Learning and Data Science Community](https://www.kaggle.com/): I would equate Kaggle to the Github/StackOverflow of Data Science. It's a great place to check out data sets, ask questions and network with other Data Science/Data Analytics professionals. They have a really cool progression system as well (https://www.kaggle.com/progression/)!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
-## **Product Management:**
+### **Product Management:**
 * [Product Management First Principles](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c)
 * [What is software localization?](https://medium.com/best-of-i18n/product-localization-what-it-is-and-how-to-make-it-work-for-your-business-b8244362413f)
 * [What are the different personas of Product Managers?](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
@@ -151,7 +151,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [What is a product led company/product led growth? ](https://openviewpartners.com/blog/what-is-product-led-growth/#.YQlRelNKgTU)
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
-## **UX/Product Design/Product Research:**
+### **UX/Product Design/Product Research:**
 * [A collection of various company's design principles ](https://www.designprinciplesftw.com/)
 * [Nielsen Norman - UX Careers](https://www.nngroup.com/reports/user-experience-careers/): Fantastic overview of UX Careers by Nielsen Norman - talks about skills common to designers, nuances between Designers vs. Researchers, and more.
 * [UX Design vs UI Design](https://www.youtube.com/watch?app=desktop&v=5CxXhyhT6Fc): Short 10 minute video on the main differences between the two fields. The reality is that most organizations combine the roles, but UX and UI are different skills technically. UI is about the visual components of an experience (typography, colors, spacing, information architecture) and UX is about the user journey (think emotions, personas).
@@ -161,20 +161,14 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [UX Research](https://www.userinterviews.com/ux-research-field-guide-module/ux-research-basics): Great resource breaking down what UX Research entails!
 * [Fixing product design career paths with the Mirror Model](https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547): Some thoughts on the lack of clarity for growth opportunities related to tenured, individual contributor Designers. Proposes a mirroring of the Engineering progression frameworks as a solution. Thought it makes alot of sense given the alignment that occurs between the trifecta (UX/Engineering/Product).
 
-## **Trust & Information Security:**
-* NIST frameworks: https://www.nist.gov/
-* Common Cyberattacks: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
-* Tools used in modern day security: https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use
-* Types of careers in Infosecurity: https://www.techtarget.com/whatis/feature/5-top-cybersecurity-careers
+### **Trust & Information Security:**
+* [NIST frameworks] (https://www.nist.gov/)
+* [Common Cyberattacks](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks)
+* [Tools used in modern day security](https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use)
+* [Types of careers in Infosecurity] (https://www.techtarget.com/whatis/feature/5-top-cybersecurity-careers)
 * [Cybersecurity Role Map](https://shellsharks.com/cybersecurity-role-map#title): Fantastic mind map that tries to differentiate the multitude of career paths in the Trust/Infosec space. Not many people know about the depth and breadth in Security: Security Engineering, Network Security Legal, Fraud Ops, Physical Security, Compliance, and much much more.
-* OWASP - nonprofit geared towards application security: https://owasp.org/
+* [OWASP - nonprofit geared towards application security](https://owasp.org/)
 
-## **Sales/GTM organizations:**
-* [3 Sales Organization Structures](https://blog.close.com/sales-management-3-models-of-sales-team-organization/): interesting perspective on the evolvement of GTM org design. Intro article for those newer to this business.
-* [The Hunter vs. Farmer Sales Model](https://blog.close.com/hunter-farmer-sales/): introduction to the hunter vs. farmer references in sales. TLDR; it's the idea that some roles focus on closing deals and other roles focus on relationship management and extending the life time value of a customer.
-* [Inbound vs. Outbound Sales](https://blog.close.com/inbound-or-outbound-sales/)
-* [Sales Commission Glossary](https://www.performio.co/insight/sales-commission-glossary): The world of Sales Compensation is more nuanced than comp for non-incentived corporate roles. I thought this glossary was a good explanation of common terms found in the space of incentivized compensation programs.
-
-I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
-## [Work In-Progress] Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
+### [Work In-Progress] Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
 * [Source](https://github.com/CannyChiu/TechnicalRecruitingHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc))
+* I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
