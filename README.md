@@ -59,15 +59,15 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
 
 ### **Books:**
-* ["The Fourth Industrial Revolution" - Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab) -> Great insights into where the world may head due to various changes happening in technology
-* ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/) -> This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
-* ["UltraLearning" - Scott Young](https://www.scotthyoung.com/blog/ultralearning/) -> A core skill of ANY career path is the ability to learn. This is a great book for the tools needed to stay ahead of the industry and become a life-long learner.
-* [Never Split The Difference - Chris Voss](https://info.blackswanltd.com/never-split-the-difference) If you're looking to up your negotiation game, definitely recommend this one. Chris is a former hostage negotiator turned negotiation teacher.
-* ["Work Rules! Insights from Google" - Laszlo Bock](https://www.workrules.net/) -> Super interesting if you're looking to understand some of the human resources methodologies of one of the biggest global technology companies in the world (Google)
-* ["Top Talent Sourcing Tools for Recruiters" - Jonathan Kidder](https://wizardsourcer.com/top-talent-sourcing-tools-for-recruiters-book/) -> Takes your Recruiting/Sourcing tools knowledge to the next level, I learned all about contact finding tools, recruiting automation, boolean string builders, data scraping and more!
-* ["Full Stack Recruiter" - Jan Tegze ](https://fullstackrecruiter.net/)-> Teaches you about sourcing across various channels like Github/Facebook/Meet-up/etc.
-* ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book)-> Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
-* ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner) -> Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
+* ["The Fourth Industrial Revolution" - Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab): Great insights into where the world may head due to various changes happening in technology
+* ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
+* ["UltraLearning" - Scott Young](https://www.scotthyoung.com/blog/ultralearning/): A core skill of ANY career path is the ability to learn. This is a great book for the tools needed to stay ahead of the industry and become a life-long learner.
+* [Never Split The Difference - Chris Voss](https://info.blackswanltd.com/never-split-the-difference): If you're looking to up your negotiation game, definitely recommend this one. Chris is a former hostage negotiator turned negotiation teacher.
+* ["Work Rules! Insights from Google" - Laszlo Bock](https://www.workrules.net/): Super interesting if you're looking to understand some of the human resources methodologies of one of the biggest global technology companies in the world (Google)
+* ["Top Talent Sourcing Tools for Recruiters" - Jonathan Kidder](https://wizardsourcer.com/top-talent-sourcing-tools-for-recruiters-book/): Takes your Recruiting/Sourcing tools knowledge to the next level, I learned all about contact finding tools, recruiting automation, boolean string builders, data scraping and more!
+* ["Full Stack Recruiter" - Jan Tegze ](https://fullstackrecruiter.net/): Teaches you about sourcing across various channels like Github/Facebook/Meet-up/etc.
+* ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book): Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
+* ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner): Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 
 ### **Podcasts:**
 * [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
@@ -81,23 +81,23 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [TechCrunch](https://techcrunch.com/)
 * [IT World Canada](https://www.itworldcanada.com/) 
 * [CNET](https://www.cnet.com/news/)
-* [InfoQ](https://www.infoq.com/)-> Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
-* [Pragmatic Engineer](https://newsletter.pragmaticengineer.com)-> Great for big tech intel and opinion pieces on engineering related topics.
+* [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
+* [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
 
 ### **Tech Conferences & Events to Check Out:**
-* [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world!
-* [Collision](https://collisionconf.com/) - one of North America's largest tech conferences!
-* [Elevate Tech Fest](https://elevate.ca/) - awesome tech conference hosted in Toronto!
-* [TechTO](https://www.techto.org/) - For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
-* [Meetup.com](https://www.meetup.com/) - There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
+* [Major League Hacking](https://mlh.io/): great way to find out about hackathons happening across the world!
+* [Collision](https://collisionconf.com/): one of North America's largest tech conferences!
+* [Elevate Tech Fest](https://elevate.ca/): awesome tech conference hosted in Toronto!
+* [TechTO](https://www.techto.org/): For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
+* [Meetup.com](https://www.meetup.com/): There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
 ### **Talent Market Intelligence & Data-Oriented Talent Practices:**
-* Company Insights: https://craft.co/
-* Acquisitions: https://www.crunchbase.com/
-* Layoffs: https://layoffs.fyi/tracker/
-* StackOverflow Dev Survey: https://insights.stackoverflow.com/survey/2021 -> Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
-* CBRE - Scoring Top Tech Markets : https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets -> Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
-* Indeed Hiring Lab: https://www.hiringlab.org/ -> great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
+* [Company Insights](https://craft.co/)
+* [Acquisitions](https://www.crunchbase.com/)
+* [Layoffs](https://layoffs.fyi/tracker/)
+* [StackOverflow Dev Survey](https://insights.stackoverflow.com/survey/2021): Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
+* [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
+* [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
 
 ### **Talent Acquisition Communities:**
 * [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
