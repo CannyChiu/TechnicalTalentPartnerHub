@@ -13,7 +13,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [On Equality vs. Equity](https://publichealthonline.gwu.edu/blog/equity-vs-equality/)
 * [On Intersectionality](https://time.com/5560575/intersectionality-theory/)
 * [50 Cognitive Biases in the Modern world](https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
-* [Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices)](https://centreforglobalinclusion.org/The-Centre/gdib-model/)
+* [Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices)](https://centreforglobalinclusion.org/what-we-do/the-gdeib/gdeib-checklist/overview-of-the-gdieb.html)
 * [Deloitte: Six signature traits of inclusive leaders](https://www2.deloitte.com/us/en/insights/topics/talent/six-signature-traits-of-inclusive-leadership.html) 
 * [On the challenges of women in technology](https://www.hiremorewomenintech.com/) 
 * [How to talk about pronouns at work](https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide)
@@ -162,7 +162,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Fixing product design career paths with the Mirror Model](https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547): Some thoughts on the lack of clarity for growth opportunities related to tenured, individual contributor Designers. Proposes a mirroring of the Engineering progression frameworks as a solution. Thought it makes alot of sense given the alignment that occurs between the trifecta (UX/Engineering/Product).
 
 ### **Trust & Information Security:**
-* [NIST frameworks] (https://www.nist.gov/)
+* [NIST frameworks](https://www.nist.gov/)
 * [Common Cyberattacks](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks)
 * [Tools used in modern day security](https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use)
 * [Types of careers in Infosecurity] (https://www.techtarget.com/whatis/feature/5-top-cybersecurity-careers)
