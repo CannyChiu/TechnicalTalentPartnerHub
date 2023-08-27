@@ -50,8 +50,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [Paychex - basic benefits a Company must provide (US)](https://www.paychex.com/articles/employee-benefits/employee-benefits-a-company-must-provide): great summary of mandatary US benefits for FTE based employees: Workers Comp, Unemployment Insurance, Social Security, Medicare, FLMA, etc. Note: companies can choose to go above and beyond to attract talent - 401k + PTO programs are prime examples of benefits that are "standard" to remain competitive.
 
 
-## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
-## **Video/E-Learning Resources:**
+### **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
+#### **Video/E-Learning Resources:**
 * [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
 * [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
 * [Holistica IT Training](https://holistica.co.uk/): Ayub is fantastic, I know he's based in the UK and primarily focuses on training technical recruiters. His content covers tech recruiting in development, IT support/infrastructure, data/machine learning + AI! 
