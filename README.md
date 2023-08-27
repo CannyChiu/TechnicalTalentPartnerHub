@@ -108,7 +108,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting st
 * [One Req](https://onereq.com/): Great community for recruiting professionals to share tips and tricks! Big focus on Early Talent/Campus Recruiting!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 
-## **In addition to the above Talent/Talent Acquisition Resources, wanted to highlight resources to better understand R&D (Engineering, UX, Trust, Data, Product, and more):**
+## **Understanding the R&D Business Groups (Engineering, UX, Trust, Data, Product):**
 
 ### **Campus Recruiting/Early Talent:**
 * [Major League Hacking](https://mlh.io/) - great way to find out about hackathons happening across the world! Hackathons are great ways to engage in the community and pipeline Product, UX, Design and Engineering Talent. Talent can partner with their Social Impact/Corporate Social Responsbility teams on joint engagement in hackathons.
