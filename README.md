@@ -173,5 +173,194 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [OWASP - nonprofit geared towards application security](https://owasp.org/)
 
 ### [Work In-Progress] Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
-* [Source](https://github.com/CannyChiu/TechnicalRecruitingHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc))
 * I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
+* NOTE: I merged this section from my old content and didn't have enough time to fix the mark-up. Work In-Progress!
+
+### **Tech Job Boards/master reference:**
+* **https://docs.google.com/spreadsheets/d/1IUiVhhH0aWVvigoiup9MitgGmosTtE5Cx7M_OwIq5H4/edit#gid=0
+`**NOTE: this was a crowd-sourced initiative and I was only one of the contributors, I do not take credit for the amazing work pulled together by the volunteers**`
+* International Job Posting: https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/
+`**NOTE: this was another crowd-sourced initiative by RecruitingBrainfood, I do not take credit!**`
+
+### **Web Development Meet-ups**
+* Microsoft Reactor Toronto: https://www.meetup.com/Microsoft-Reactor-Toronto/
+* C# Corner Toronto Chapter Meetup: https://www.meetup.com/C-Corner-Toronto-Chapter-Meetup/
+* Women Who Code Toronto: https://www.meetup.com/Women-Who-Code-Toronto/
+* Toronto Mobile .NET Development: https://www.meetup.com/TorontoMobileDevelopers/
+* Toronto JavaScript: https://www.meetup.com/torontojs/
+* Toronto Java Users Group: https://www.meetup.com/Toronto-Java-Users-Group/
+* Metro Toronto .NET User Group: https://www.meetup.com/metrotorontoug/
+* Halifax Angular: https://www.meetup.com/Halifax-Angular-Meetup/
+* Halifax ReactJS: https://www.meetup.com/Halifax-ReactJS-Meetup/
+* Software Developers of Calgary: https://www.meetup.com/Software-Developers-Learning-Together/
+* .NET Users of BC: https://www.meetup.com/NET-User-Group-of-BC/
+* Women who code Vancouver: https://www.meetup.com/Women-Who-Code-Vancouver/
+* React Vancouver Meetup: https://www.meetup.com/ReactJS-Vancouver-Meetup/
+* Women Can Tech: https://www.meetup.com/Women-Can-Tech-YVR/
+* Toronto .NET Meetup: https://www.meetup.com/Toronto-NET-Meetup/
+* React Native Creative - Toronto: https://www.meetup.com/React-Native-Creative-Active/
+* ReactTO: https://www.meetup.com/ReactTO/
+* React + Native Toronto: https://www.meetup.com/Toronto-React-Native/
+* Toronto .NET Developer Meetup: https://www.meetup.com/Toronto-NET-Developer-Meetup/
+* Angular Toronto Meet up: https://www.meetup.com/AngularToronto/
+* Toronto Cloud Native Development Meetup: https://www.meetup.com/Toronto-Cloud-Native-Development-Meetup/
+* Mississauga Software Developer: https://www.meetup.com/Mississauga-Software-Devs/
+* Ottawa ReactJS: https://www.meetup.com/Ottawa-ReactJS-Meetup/
+* DrupalYOW: https://www.meetup.com/DrupalYOW/
+* Calgary JavaScript: https://www.meetup.com/calgaryjs/
+* Calgary .NET Group: https://www.meetup.com/Calgary-net-User-Group/
+* Drupal Montreal: https://www.meetup.com/Drupal-Montreal/
+* MSDevMontreal: https://www.meetup.com/msdevmtl/
+* React Native: https://www.meetup.com/React-MTL/
+* Angular Montreal: https://www.meetup.com/Angular-Montreal/
+* GraphQL Meet-up: https://www.meetup.com/GraphQL-Montreal/
+* Vancouver JavaScript Developers: https://www.meetup.com/vancouver-javascript-developers/
+* Houston React Native Meetup: https://www.meetup.com/Houston-React-Native-Meetup/
+* React Native NYC: https://www.meetup.com/React-Native-NYC/
+* Cleveland React: https://www.meetup.com/Cleveland-React/
+* [SLACK] Ruby on Rails Link: https://www.rubyonrails.link/
+* [SLACK] NYCTech: https://www.nyctechslack.com/
+* [SLACK] Tech London: http://www.techlondon.io/
+* [SLACK] Chicago Tech: https://chicago-tech.slack.com/join/shared_invite/zt-ehj1vdqt-Ri8o_wRbRm9cYnSbCRi4Cg#/shared-invite/email
+* [SLACK] South Florida Tech: https://palmbeachtech.org/slack
+* [SLACK] Baltimore Tech: https://slofile.com/slack/baltimoretech
+* [SLACK] KnoxDevs: https://slofile.com/slack/knoxdevs
+* [SLACK] Berlin Tech: https://slofile.com/slack/berlintechs
+* [SLACK] Frontend Brasil: https://slofile.com/slack/frontendbrasil
+* [SLACK] Silicon Prairie Tech: http://siliconprairietech.com/
+* [SLACK] AmsterdamxTech: http://amsxtech.com/community/
+* [SLACK] TechBelgium: http://techbelgium.io/
+* [SLACK] Tech Community of New Mexico: https://slofile.com/slack/nmdevs
+* [SLACK] Munich IT Meetups: https://slofile.com/slack/munichmeetups
+* [SLACK] Frontend London: https://slofile.com/slack/frontendlondon
+* [SLACK] Microsoft Dev Chat: http://msdev.chat/
+* [SLACK] PHP Chat: https://phpchat.co/
+* [SLACK] Fintechfolk: https://slofile.com/slack/fintechfolk
+* [SLACK] EdjeJS (community of Node & .NET Devs): https://slofile.com/slack/edgejs
+* [SLACK] WeLearnJS: https://slofile.com/slack/learnjs
+* [SLACK] DevChat: https://slofile.com/slack/devolio-devchat
+* [SLACK] Minneapolis, St.Paul Tech: https://slofile.com/slack/msptech
+* [SLACK] TorontoJS: https://slofile.com/slack/torontojs
+* [SLACK] Atlanta Tech404: https://tech404.github.io/
+* [SLACK] RubyDevelopers: https://rubydevelopers.typeform.com/to/l7WVWl
+
+### **Engineering Leadership**
+* Toronto Software Team Lead Meetup: https://www.meetup.com/Toronto-Software-Team-Lead-Meetup/
+* Montreal CTO and Lead Developer: https://www.meetup.com/Montreal-CTO-Meetup/
+* Vancouver Software Development Managers: https://www.meetup.com/Vancouver-Software-Development-Managers/
+
+### **Native Mobile**
+* GDG Toronto Android: https://www.meetup.com/ToAndroidDev/
+* NSCoder Toronto - MacOS and iOS Developer: https://www.meetup.com/NSCoderTO/
+* Kotlin Toronto: https://www.meetup.com/Kotlin-Toronto/
+* iOSKW: https://www.meetup.com/iOSKitchenerWaterloo/
+* Ottawa-Gatineau CocoaHeads: https://www.meetup.com/Ottawa-Gatineau-CocoaHeads/
+* Swift Hack Night: https://www.meetup.com/Swift-Hack-Night/
+* Calgary IOS Developers: https://www.meetup.com/Calgary-iOS-Developers/
+* Vancouver Android Developers: https://www.meetup.com/van-android-developers/
+* Cocoaheads Montreal: https://www.meetup.com/CocoaHeads-Montreal/
+* [SLACK] Android United: https://slofile.com/slack/android-united
+* [SLACK] AndroidChat: https://androidchat.co/
+* [SLACK] Cocoadevs: https://slofile.com/slack/cocoa-devs
+* [SLACK] iOS Developers HQ: https://ios-developers.io/
+
+
+### **Product Design/UX**
+* Calgary UX: https://www.meetup.com/CalgaryUX/
+* [SLACK] Designer Hangout: https://www.designerhangout.co/
+* [SLACK] DesignUAE: https://www.designuae.org/
+* [SLACK] United Designers: https://slofile.com/slack/uniteddesigners
+* https://adplist.org/
+
+### **Product Management**
+* Toronto Women In Product Management: https://www.meetup.com/Toronto-Women-in-Product-Management/
+* ProductTank Toronto: https://www.meetup.com/ProductTank_Toronto/
+* Halifax Product Management: https://www.meetup.com/Halifax-Product-Management-Meetup-Group/
+* ProductTank Ottawa: https://www.meetup.com/ProductTank-Ottawa/
+* Product Calgary: https://www.meetup.com/ProductCalgary/
+* Women of Product: https://www.meetup.com/WomenOfProductMTL/
+* [SLACK] Product School: https://slofile.com/slack/product-school
+* [SLACK] Mind the Product: http://slack.mindtheproduct.com/
+* [SLACK] Product Manager HQ: https://productmanagerhq.com/join-the-community/
+* [SLACK] Product led Growth: https://productled.com/community/
+* [SLACK] Product-led Alliance: https://slofile.com/slack/productled
+
+### **Information Security/Application Security**
+* Cyber Tech & Risk: https://www.meetup.com/Cyber-Tech-Risk/
+* OWASP Toronto Chapter: https://www.meetup.com/OWASP-Toronto/
+
+### **DevOps/Site Reliability Engineering**
+* DevOpsTO: https://www.meetup.com/DevOpsTO/
+* North Toronto Cloud & DevOps User Group: https://www.meetup.com/NorthTorontoUG/
+* Toronto Enterprise DevOps User Group: https://www.meetup.com/Toronto-Enterprise-DevOps-User-Group/
+* DevOps Halifax: https://www.meetup.com/DevOps-Halifax/
+* Ottawa DevOps Group: https://www.meetup.com/DevOps-Ottawa/
+* Docker Montreal: https://www.meetup.com/Docker-Montreal/
+* Calgary Cloud Native & Kubernetes Meetup: https://www.meetup.com/Alberta-Cloud-Native-Meetup/
+* Calgary AWS and Serverless meetup: https://www.meetup.com/Calgary-AWS-and-Serverless-meetup/
+* Linux Foundation Cloud Certifications: https://www.credly.com/organizations/the-linux-foundation/badges
+* [SLACK] Cloud Study Network: https://slofile.com/slack/cloudstudynet
+* [SLACK] Site Reliability Engineering: https://slofile.com/slack/sre-community
+* [SLACK] DevOpsLinks: https://slofile.com/slack/devopslinks
+* [SLACK] Serverless: https://slofile.com/slack/serverlesschat
+* [SLACK] Firebase community on slack: https://firebase-community.appspot.com/
+* [SLACK] DevOpsCommunity: https://devopschat.co/register
+* [SLACK] Kubernetes: http://slack.k8s.io/
+
+### **Software Testing**
+* Ministry of Testing Toronto: https://www.meetup.com/Ministry-of-Testing-Toronto/
+* Software Test Automation: https://www.meetup.com/Software-Test-Automation/
+
+### **Data Science/Data Engineering**
+* Data, Cloud and AI in Toronto: https://www.meetup.com/Big-Data-Developers-in-Toronto/
+* Women in AI & Machine Learning: https://www.meetup.com/WinAIML/
+* [SLACK] Datatalks: https://datatalks.club/slack.html
+* [SLACK] AI Researchers: https://slofile.com/slack/ai-researchers
+* [SLACK] Data Science Community: https://community.dataquest.io/
+* [SLACK] Power BI User: https://slofile.com/slack/powerbiusers
+
+**Some diversity and inclusion organizations to be involved with: (note: this is not a comprehensive list - would love referrals to new organizations as well!)**
+### **BIPOC Communities in Tech**
+* DevColor (Black Professionals in Tech - US): https://devcolor.org/
+* Technologists of Color (Black Professionals in Tech - US):https://www.linkedin.com/company/techsofcolor/
+* BIT - Blacks in Technology (Black Professionals in Tech - US): https://www.blacksintechnology.net/
+* BPTN: Black Professionals in Tech Network (Black Professionals in Tech - CAN/US): https://www.bptn.ca/
+* National Society of Black Engineers (Black Professionals in Tech - CAN/US): https://www.nsbe.org/
+* Ascend Canada (Asian Professionals - CAN/US): https://www.ascendleadership.org/
+* North American Association of Asian Professionals (Asian Professionals - CAN/US): https://to.naaap.org/
+* NPower (Underrepresented communities in Tech - CAN/US): https://npowercanada.ca/
+* Techqueria | Latinx in Tech (Underrepresented communities in Tech - US): https://techqueria.org/
+* ACCES Employment (Newcomers in Tech - CAN): https://accesemployment.ca/
+
+### **Women in Technology Communities**
+* Move The Dial (Women in Tech - CAN/US): https://movethedial.com/
+* Tech Teahouse (Women in Tech - CAN): https://www.linkedin.com/company/techteahouse/
+* Women in Tech Network (Women in Tech - Global): https://www.womentech.net/en-ca
+* Women Who Code (Women in Tech - Global): https://www.womenwhocode.com/
+* Latinas in Computing (Women in Tech - US): https://latinasintech.org/
+* Women in Communications and Technology (Women in Tech - CAN): https://www.wct-fct.com/en
+* Women in Tech Scotland (Women in Tech - UK): https://www.womenintechscotland.com/
+* Women's Society of Cyberjutsu (Women in Tech - US): https://womenscyberjutsu.org/
+* Women in Tech (Global): https://women-in-tech.org/
+* ADA's List (EMEA): https://www.adaslist.co/about
+* PowerToFly (NA): https://powertofly.com/
+
+### **LGBTQ2+ Communities in Tech**
+* VentureOut (LGBTQ2A+ in Tech - CAN): https://www.ventureout.ca/
+* Bridge School (LGBTQ2A+ and non-binary identifying individuals in Tech - CAN): https://bridgeschool.io/
+* Lesbians in Tech (LGBTQ2A+ in Tech - US): https://lesbianswhotech.org/about/
+* Out in Tech (LGBTQ2A+ in Tech - US): https://outintech.com/
+
+### **Communities with different abilities in Tech**
+* LimeConnect (Students with different abilities - CAN/US): https://www.limeconnect.com/
+
+### **Indigenous Communities in Tech**
+* Technology Council (Indigenous communities in Tech - CAN): https://technologycouncil.ca/
+* American Indian Science and Engineering Society (Indigenous communities in Tech - US): https://www.aises.org/
+* Centre for Indigenous Innovation & Technology (Indigenous communities in Tech - CAN): https://ciit.io/
+* PLATO - Indigenous Software Testers: https://www.linkedin.com/in/scott-dillon-b-mgmt-19a69056/?originalSubdomain=ca
+
+### **Military Communities in Tech**
+* Operation Code (Military Veterans in Tech - US): https://operationcode.org/
+* Veterans Who Code (Military Veterans in Tech - CAN): https://vetswhocode.io/
+* Solders in Tech (Military Veterans in Tech - CAN): https://www.rolandgossagefoundation.com/soldiersintech
