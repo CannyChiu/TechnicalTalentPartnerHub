@@ -84,6 +84,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [CNET](https://www.cnet.com/news/)
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
+* [Business Benefits Finder](https://innovation.ised-isde.canada.ca/s/list-liste?language=en_CA&token=a0BOG000000JQlC2AW: if you're a small business or start-up looking to research grants in regards to hiring in Canada, this is a great directory!
 
 ### **Tech Conferences & Events to Check Out:**
 * [Major League Hacking](https://mlh.io/): great way to find out about hackathons happening across the world!
