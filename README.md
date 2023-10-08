@@ -85,7 +85,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 
 * [BetaKit](https://betakit.com/)
 * [TechCrunch](https://techcrunch.com/)
-* [CNET](https://www.cnet.com/news/)
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
 
@@ -98,9 +97,9 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Meetup.com](https://www.meetup.com/): There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
 ### **Talent Market Intelligence & Data-Oriented Talent Practices:**
-* [Company Insights](https://craft.co/)
-* [Acquisitions](https://www.crunchbase.com/)
-* [Layoffs](https://layoffs.fyi/tracker/)
+* [Company Insights](https://craft.co/): Great for talent market intelligence or sourcing. It helps a talent individual assess the shape, size, products and competitors using search filters. I loved using this tool when I worked on HCM-niche searches.
+* [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
+* [trueup layoffs tracker]((https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
 * [StackOverflow Dev Survey](https://insights.stackoverflow.com/survey/2021): Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
 * [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset.
