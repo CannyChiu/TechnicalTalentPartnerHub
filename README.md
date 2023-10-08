@@ -56,7 +56,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [#ShowUsYourLeave](https://docs.google.com/spreadsheets/u/0/d/1g3GbWrlYy0g3eJPy000R_iRSQiHHaz65ARysy-U6_EA/htmlview?pli=1): crowdsourced list of 60 different companies parental leave programs, highly recommend taking a look if you're doing market analysis on your company's leave benefits.
 
 
-## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
+## **A curated collection of resources to better understand the craft of Recruiting & Sourcing in Technology:**
 ### **Video/E-Learning Resources:**
 * [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
 * [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
