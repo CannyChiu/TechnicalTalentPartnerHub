@@ -52,6 +52,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Sales Commission Glossary](https://www.performio.co/insight/sales-commission-glossary): The world of Sales Compensation is more nuanced than comp for non-incentived corporate roles. I thought this glossary was a good explanation of common terms found in the space of incentivized compensation programs.
 * [The Differences Between Median vs. Mean](https://www.erieri.com/blog/post/what-is-the-difference-between-median-and-mean-salary#:~:text=The%20median%20salary%20is%20considered,the%20overall%20group%20of%20employees.): very clear explanation of the implications of using "mean" vs. "median" in HR data analysis.
 * [Paychex - basic benefits a Company must provide (US)](https://www.paychex.com/articles/employee-benefits/employee-benefits-a-company-must-provide): great summary of mandatary US benefits for FTE based employees: Workers Comp, Unemployment Insurance, Social Security, Medicare, FLMA, etc. Note: companies can choose to go above and beyond to attract talent - 401k + PTO programs are prime examples of benefits that are "standard" to remain competitive.
+* [Business Benefits Finder](https://innovation.ised-isde.canada.ca/s/list-liste?language=en_CA&token=a0BOG000000JQlC2AW): if you're a small business or start-up looking to research grants in regards to hiring in Canada, this is a great directory!
+* [#ShowUsYourLeave](https://docs.google.com/spreadsheets/u/0/d/1g3GbWrlYy0g3eJPy000R_iRSQiHHaz65ARysy-U6_EA/htmlview?pli=1): crowdsourced list of 60 different companies parental leave programs, highly recommend taking a look if you're doing market analysis on your company's leave benefits.
 
 
 ## **A curated collection of resources to better understand the craft of recruiting & sourcing in technology:**
@@ -83,11 +85,10 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 
 * [BetaKit](https://betakit.com/)
 * [TechCrunch](https://techcrunch.com/)
-* [IT World Canada](https://www.itworldcanada.com/) 
 * [CNET](https://www.cnet.com/news/)
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
-* [Business Benefits Finder](https://innovation.ised-isde.canada.ca/s/list-liste?language=en_CA&token=a0BOG000000JQlC2AW): if you're a small business or start-up looking to research grants in regards to hiring in Canada, this is a great directory!
+
 
 ### **Tech Conferences & Events to Check Out:**
 * [Major League Hacking](https://mlh.io/): great way to find out about hackathons happening across the world!
