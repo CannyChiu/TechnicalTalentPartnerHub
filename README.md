@@ -87,6 +87,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [TechCrunch](https://techcrunch.com/)
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
+* [ByteByteGo](https://blog.bytebytego.com/): Great for folks that are visually learners and want to better understand common topics within the software development space. Super useful for dev adjacent roles like TPMs, Technical Recruiters, UXers and more.
 
 
 ### **Tech Conferences & Events to Check Out:**
