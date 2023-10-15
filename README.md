@@ -80,6 +80,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [MATT ALDER: Recruiting Future](https://recruitingfuture.com/)
 * [HIRED: Talk Talent To Me ](https://hired.com/blog/employers/talk-talent-to-me-recruiting-podcast/)
 * [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
+* [The Modern Recruiter](https://themodernrecruiter.substack.com/): great podcasts on the latest trends within the TA space - highly recommend!
 
 ### **Blogs or news sites to follow tech news/trends:**
 
