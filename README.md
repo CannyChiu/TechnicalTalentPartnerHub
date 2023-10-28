@@ -39,7 +39,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
-* [Peer Group](https://compapeergroup.substack.com/): a weekly newsletter/community of Total Reward Leaders who discuss upcoming trends in the Total Rewards Space. The founder of this group is a former TR leader from Mercer, Juniper and Workday.
 * [What is Equity by Carta](https://carta.com/equity/learn/what-is-equity/): great resource on understanding equity, cap tables, vesting and more.
 * [The Holloway Guide to Equity Compensation ](https://www.holloway.com/g/equity-compensation/about) -> Equity is a huge consideration when joining a company, but equity is a black box for most individuals. Check out this thorough guide on how equity works. I learned lots about concepts like 409A valuations, taxation, public vs. private equity, vesting schedules, stock options vs. RSUs, and much more.
 * [Opening Up About Comp Isn’t Easy — Here’s How to Get More Transparent](https://review.firstround.com/opening-up-about-comp-isnt-easy-heres-how-to-get-more-transparent): the world is moving to more transparency around salaries, but the reality is that many organizations may not be ready for this change. HOWEVER, this doesn't mean you can't work towards transparency internally and externally. Check out this article for insights on how an organization can shift into transparency.
