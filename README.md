@@ -103,6 +103,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
 * [Talent Sourcing Seniority Ladder](https://docs.google.com/spreadsheets/d/1g5VvxQwaC4L8RI8zPZXeXj0_YnFz1XWKx48s0i9jvxU/edit?usp=sharing): Denys shares an example of a career progression framework for Talent Sourcers. Wanted to capture this as a I find Sourcers don't get as much attention or love in most Talent Acquisition organizations.
+* [Talent Sourcing Technical Toolbox](https://wizardsourcer.com/tools/): WizardSourcer is a great place to find different tools to incorporate into your TA tech stack, from things like Boolean generators, Email finders, Github scrapers, Customized Search Engines and much more. Must read if you're constantly on the hunt to improve your TA tech stack.
 
 ### **Talent Acquisition Communities:**
 * [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
