@@ -127,7 +127,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book): I just started this book, but I loved the insights of developers on the technical track. It goes through the role expectations of Staff+ Engineers at multiple companies through storytelling by multiple Staff Engineers.
 * [What is a Code Review?](https://google.github.io/eng-practices/review/reviewer/): Important context if you're unfamiliar with code reviews
 * [SRE vs. DevOps](https://devops.com/sre-vs-devops-false-distinction/)
-* [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/): Compensation and the various elements within a package are very diverse. Great article for talent professionals to understand what compensation is composed of in the world of technical recruiting.
 * [What is Software Architecture?](https://riccentre.ca/software-architecture-design-patterns/)
 * [The Seniority Roller Coaster - why do Developers get levelled differently across companies? ](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/)
 * [How do you make a strong offer to a Developer?](https://review.firstround.com/make-stronger-offers-to-engineering-candidates-and-boost-your-closes)
