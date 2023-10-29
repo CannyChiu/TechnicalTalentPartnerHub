@@ -142,6 +142,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Senior vs. Staff vs. Principal Engineers](https://medium.com/commercetools-tech/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34): A comparison about the differences between Senior, Staff and Principal Engineering roles - great read. 
 * [DevRel Collective](https://devrelcollective.fun/#resources): A great summary of blogs, resources and communities related to Dev Rel & Dev Advocacy. Great for recruiters that work in developer facing product companies!
 * [Technically - What are Microservices?](https://technically.substack.com/p/what-are-microservices): great TLDR on the benefits and costs of microservices compared to the traditional monolith approach.
+* [Technically - What's an API (Application Programming Interface)](https://technically.substack.com/p/whats-an-api): very succint explanation on what APIs are! Highly recommend a read if you've never worked on software products before, APIs are a cornerstone of application development.
 
 ### **Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
