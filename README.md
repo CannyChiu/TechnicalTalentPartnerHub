@@ -143,6 +143,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [DevRel Collective](https://devrelcollective.fun/#resources): A great summary of blogs, resources and communities related to Dev Rel & Dev Advocacy. Great for recruiters that work in developer facing product companies!
 * [Technically - What are Microservices?](https://technically.substack.com/p/what-are-microservices): great TLDR on the benefits and costs of microservices compared to the traditional monolith approach.
 * [Technically - What's an API (Application Programming Interface)](https://technically.substack.com/p/whats-an-api): very succint explanation on what APIs are! Highly recommend a read if you've never worked on software products before, APIs are a cornerstone of application development.
+* [Technically - The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases): I loved this article - there are so many different databases that Engineers or Data Scientists can use. The article explains the nuances between databases that can be used for production apps, analytics and infrastructure support with clear examples of each!
 
 ### **Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
