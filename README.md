@@ -124,7 +124,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 ### **Software Engineering:**
 * ["Accelerate: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/): Great resource for understanding the challenges/opportunities of building a strong engineering organization - it tells the story of a fictional company attempting to modernize the way they build applications to support business needs
 * [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book): I just started this book, but I loved the insights of developers on the technical track. It goes through the role expectations of Staff+ Engineers at multiple companies through storytelling by multiple Staff Engineers.
-* [Technically](https://technically.substack.com/): Great 101 on software engineering topics like Kakfa, noSQL, APIs, etc.
 * [What is a Code Review?](https://google.github.io/eng-practices/review/reviewer/): Important context if you're unfamiliar with code reviews
 * [SRE vs. DevOps](https://devops.com/sre-vs-devops-false-distinction/)
 * [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/): Compensation and the various elements within a package are very diverse. Great article for talent professionals to understand what compensation is composed of in the world of technical recruiting.
@@ -142,6 +141,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Hiring Programs](https://lethain.com/bar-raising-hiring-committees-hiring-quality/): A discussion on extra-curricular hiring programs like Bar raisers, hiring committees, and other complex ways to improve hiring quality
 * [Senior vs. Staff vs. Principal Engineers](https://medium.com/commercetools-tech/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34): A comparison about the differences between Senior, Staff and Principal Engineering roles - great read. 
 * [DevRel Collective](https://devrelcollective.fun/#resources): A great summary of blogs, resources and communities related to Dev Rel & Dev Advocacy. Great for recruiters that work in developer facing product companies!
+* [Technically - What are Microservices?](https://technically.substack.com/p/what-are-microservices): great TLDR on the benefits and costs of microservices compared to the traditional monolith approach.
 
 ### **Data Engineering/Data Science:**
 * [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
