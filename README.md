@@ -158,6 +158,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Cool Product Management Templates](https://productschool.com/templates)
 * [What is a product led company/product led growth? ](https://openviewpartners.com/blog/what-is-product-led-growth/#.YQlRelNKgTU)
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
+* [Product Management Basics](https://www.productledcertified.com/product-management-basics): great for those that are intrigued by "Product Management" and want a 3 hour, FREE primer.
 
 ### **UX/Product Design/Product Research:**
 * [A collection of various company's design principles ](https://www.designprinciplesftw.com/)
