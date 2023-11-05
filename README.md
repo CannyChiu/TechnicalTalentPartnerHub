@@ -159,6 +159,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [What is a product led company/product led growth? ](https://openviewpartners.com/blog/what-is-product-led-growth/#.YQlRelNKgTU)
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 * [Product Management Basics](https://www.productledcertified.com/product-management-basics): great for those that are intrigued by "Product Management" and want a 3 hour, FREE primer.
+* [Mind The Product - Skills Inventory for Product Managers](https://www.mindtheproduct.com/wp-content/uploads/2021/02/Mind-the-Product-Skills-Assessment-PDF.pdf): if you're looking to build a skills inventory or rubricfor your PM craft, this is a great resource. 
 
 ### **UX/Product Design/Product Research:**
 * [A collection of various company's design principles ](https://www.designprinciplesftw.com/)
