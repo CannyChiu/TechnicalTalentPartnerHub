@@ -37,6 +37,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Hyper Island Toolbox](https://toolbox.hyperisland.com/): Fantastic hub of different faciliation techniques and team buildings.
 * [Open Policy Index](https://airtable.com/app7O2PRL7jGjFszh/shrispl7t18laPXdC/tbl0oUxMWgwjNAoJI/viwkwU8Ep0qkLqGPR?blocks=hide): The team at Open Index created this airtable of 300+ HR policies. This is a resource that HR professionals can use to research what's available in the market, but remember: the best policies are custom fit to your organization's reality. As always, give kudos and appropriate credit to the individuals and organizations where you drew inspiration from! :)
 * [Workplace Investigations for the Human Resources Professional](https://openeducationalberta.ca/workplaceinvestigationshr/): Great primer on what the investigation process looks like. As someone not involved with these activities in my organization, the information was digestible and useful. Resource is free which is helpful for self-taught HR professionls lacking the HR academic background.
+* [Pyn: Employee Experience Process Mapping](https://www.pynhq.com/): great, FREE tool to process map talent processes, you're able to collaborate with peers and expert visuals. It's like Figma for HR.
 
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
