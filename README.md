@@ -173,6 +173,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * An example of a Design System:https://polaris.shopify.com/ or https://mui.com/
 * [UX Research](https://www.userinterviews.com/ux-research-field-guide-module/ux-research-basics): Great resource breaking down what UX Research entails!
 * [Fixing product design career paths with the Mirror Model](https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547): Some thoughts on the lack of clarity for growth opportunities related to tenured, individual contributor Designers. Proposes a mirroring of the Engineering progression frameworks as a solution. Thought it makes alot of sense given the alignment that occurs between the trifecta (UX/Engineering/Product).
+* [UX Study Guides - Nielsen Norman](https://www.nngroup.com/topic/study-guide/): great primers on various UX topics, free resource.
 
 ### **Trust & Information Security:**
 * [NIST frameworks](https://www.nist.gov/)
