@@ -53,6 +53,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Paychex - basic benefits a Company must provide (US)](https://www.paychex.com/articles/employee-benefits/employee-benefits-a-company-must-provide): great summary of mandatary US benefits for FTE based employees: Workers Comp, Unemployment Insurance, Social Security, Medicare, FLMA, etc. Note: companies can choose to go above and beyond to attract talent - 401k + PTO programs are prime examples of benefits that are "standard" to remain competitive.
 * [Business Benefits Finder](https://innovation.ised-isde.canada.ca/s/list-liste?language=en_CA&token=a0BOG000000JQlC2AW): if you're a small business or start-up looking to research grants in regards to hiring in Canada, this is a great directory!
 * [#ShowUsYourLeave](https://docs.google.com/spreadsheets/u/0/d/1g3GbWrlYy0g3eJPy000R_iRSQiHHaz65ARysy-U6_EA/htmlview?pli=1): crowdsourced list of 60 different companies parental leave programs, highly recommend taking a look if you're doing market analysis on your company's leave benefits.
+* [Carta - 2023 Equity Report](https://carta.com/blog/startup-compensation-h2-2023/): fantastic insights on the current state of hiring/comp including topics like the size of equity grants, hiring appetitite across functions and an interesting discussion on IC vs. Manager appetite. 
 
 
 ## **A curated collection of resources to better understand the craft of Recruiting & Sourcing in Technology:**
