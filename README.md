@@ -65,7 +65,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [How to work with Engineers - Technically](https://technically.dev/tracks/working-with-developers): I'm a paid subscriber to Technically which is a blog that shares lots of great ELI5 summaries of various topics in Engineering. It ranges from many topics like what is front-end, to explaining "no-code/low code" or deep diving into certain technologies like Kubernetes. Worth reading if you are a technical recruiter that is missing a strong computer science background.
 
 ### **Books:**
-* ["The Fourth Industrial Revolution" - Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab): Great insights into where the world may head due to various changes happening in technology
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
 * ["UltraLearning" - Scott Young](https://www.scotthyoung.com/blog/ultralearning/): A core skill of ANY career path is the ability to learn. This is a great book for the tools needed to stay ahead of the industry and become a life-long learner.
 * [Never Split The Difference - Chris Voss](https://info.blackswanltd.com/never-split-the-difference): If you're looking to up your negotiation game, definitely recommend this one. Chris is a former hostage negotiator turned negotiation teacher.
@@ -76,7 +75,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner): Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 
 ### **Podcasts:**
-* [PLURALSIGHT: All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts)
 * [MATT ALDER: Recruiting Future](https://recruitingfuture.com/)
 * [HIRED: Talk Talent To Me ](https://hired.com/blog/employers/talk-talent-to-me-recruiting-podcast/)
 * [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
@@ -85,17 +83,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 ### **Blogs or news sites to follow tech news/trends:**
 
 * [BetaKit](https://betakit.com/)
-* [TechCrunch](https://techcrunch.com/)
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
-
-
-### **Tech Conferences & Events to Check Out:**
-* [Major League Hacking](https://mlh.io/): great way to find out about hackathons happening across the world!
-* [Collision](https://collisionconf.com/): one of North America's largest tech conferences!
-* [Elevate Tech Fest](https://elevate.ca/): awesome tech conference hosted in Toronto!
-* [TechTO](https://www.techto.org/): For anyone passionate about learning the tech space in Toronto, check out some of the virtual events they are hosting each month. You can also find some of their past events recorded on Youtube!
-* [Meetup.com](https://www.meetup.com/): There are many different community groups being run by the community! Passionate about a specific space in tech like Data Analytics or Information Security? There's a group for everyone!
 
 ### [WIP]**Talent Sourcing, Talent Market Intelligence Practices:**
 * [Company Insights](https://craft.co/): Great for talent market intelligence or sourcing. It helps a talent individual assess the shape, size, products and competitors using search filters. I loved using this tool when I worked on HCM-niche searches.
