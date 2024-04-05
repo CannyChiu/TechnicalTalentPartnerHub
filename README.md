@@ -38,6 +38,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Open Policy Index](https://airtable.com/app7O2PRL7jGjFszh/shrispl7t18laPXdC/tbl0oUxMWgwjNAoJI/viwkwU8Ep0qkLqGPR?blocks=hide): The team at Open Index created this airtable of 300+ HR policies. This is a resource that HR professionals can use to research what's available in the market, but remember: the best policies are custom fit to your organization's reality. As always, give kudos and appropriate credit to the individuals and organizations where you drew inspiration from! :)
 * [Workplace Investigations for the Human Resources Professional](https://openeducationalberta.ca/workplaceinvestigationshr/): Great primer on what the investigation process looks like. As someone not involved with these activities in my organization, the information was digestible and useful. Resource is free which is helpful for self-taught HR professionls lacking the HR academic background.
 * [Pyn: Employee Experience Process Mapping](https://www.pynhq.com/): great, FREE tool to process map talent processes, you're able to collaborate with peers and expert visuals. It's like Figma for HR.
+* [Talent Density - Coinbase](https://www.coinbase.com/blog/talent-density-at-coinbase) We're moving to a corporate world where growth =/= headcount increases. It's important to build lean and highly skilled organizations. I know the topic of "talent density" is a bit controversial, but as someone that subscribes to the Netflix approach to talent, I really enjoyed this blog post.
 
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
@@ -74,6 +75,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * ["Full Stack Recruiter" - Jan Tegze ](https://fullstackrecruiter.net/): Teaches you about sourcing across various channels like Github/Facebook/Meet-up/etc.
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book): Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner): Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
+
 
 ### **Podcasts:**
 * [MATT ALDER: Recruiting Future](https://recruitingfuture.com/)
