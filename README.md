@@ -135,10 +135,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [What exactly is Github Copilot](https://www.codecademy.com/article/what-is-github-copilot): great primer for a non-engineer to understand the impact on Generative AI on software development. I do believe copilot will improve the quality of life for engineers through rapid code generation, documentation support, unit testing support and more. Ultimately, the Engineer still needs to understand what is happening, adhere to their code base practices and consider security, but it is a meaningful tool.
 
 ### **Data Engineering/Data Science:**
-* [What is data engineering? ](https://blog.pragmaticengineer.com/what-is-data-engineering/) 
-* [What is data engineering? Part 2](https://blog.pragmaticengineer.com/what-is-data-engineering-2/?utm_source=substack&utm_medium=email)
+* [What is data engineering?](https://blog.pragmaticengineer.com/what-is-data-engineering/) & [What is data engineering? Part 2](https://blog.pragmaticengineer.com/what-is-data-engineering-2/?utm_source=substack&utm_medium=email): explains the Extract, Transform, Load process, explains Batch vs Streaming, explains Warehouse vs. Lake, and concludes with examples of technologies used in Data Engineering today. 
 * [Kaggle - Your Machine Learning and Data Science Community](https://www.kaggle.com/): I would equate Kaggle to the Github/StackOverflow of Data Science. It's a great place to check out data sets, ask questions and network with other Data Science/Data Analytics professionals. They have a really cool progression system as well (https://www.kaggle.com/progression/)!
-* [Analytics Engineering Stack](https://technically.dev/posts/what-your-data-team-is-using): Post is from 2021, but walks through the technology stack that an Analytics Engineer would use from end-to-end.
 * [Data Science - Tools & Python frameworks Primer](https://sqlpad.io/tutorial/master-python-for-data-science-ides-libraries-frameworks/): Great primer on the tools of a Data Scientist (Jupyter Notebook) and unpacks the various Python libraries that can be used for Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow & Pytorch.
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
