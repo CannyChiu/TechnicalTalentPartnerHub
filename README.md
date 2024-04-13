@@ -165,14 +165,12 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [UX Study Guides - Nielsen Norman](https://www.nngroup.com/topic/study-guide/): great primers on various UX topics, free resource.
 
 ### **Trust & Information Security:**
-* [NIST frameworks](https://www.nist.gov/)
 * [Common Cyberattacks](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks)
-* [Tools used in modern day security](https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use)
-* [Types of careers in Infosecurity] (https://www.techtarget.com/whatis/feature/5-top-cybersecurity-careers)
+* [Tools used in modern day security](https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use): goes through common tools in network security.
 * [Cybersecurity Role Map](https://shellsharks.com/cybersecurity-role-map#title): Fantastic mind map that tries to differentiate the multitude of career paths in the Trust/Infosec space. Not many people know about the depth and breadth in Security: Security Engineering, Network Security Legal, Fraud Ops, Physical Security, Compliance, and much much more.
-* [OWASP - nonprofit geared towards application security](https://owasp.org/)
+* [OWASP](https://owasp.org/): Industry practices on software and network security.
 
-## Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc)
+## Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc) - Not updating
 * I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
 * NOTE: I merged this section from my old content and didn't have enough time to fix the mark-up. Work In-Progress!
 
