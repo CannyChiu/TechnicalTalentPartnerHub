@@ -15,7 +15,6 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [What does privilege look like?](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf): On what privilege can look like in day-to-day actions.  
 * [On Equality vs. Equity](https://publichealthonline.gwu.edu/blog/equity-vs-equality/): On the differences between equality and equity.
 * [On Intersectionality](https://time.com/5560575/intersectionality-theory/): On what intersectionality is in the lens of identity
-* [Global Diversity & Inclusion Benchmarks (GBIB framework on assessing organization's DEI practices)](https://centreforglobalinclusion.org/what-we-do/the-gdeib/gdeib-checklist/overview-of-the-gdieb.html)
 * [How to talk about pronouns at work](https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide): On respecting and acknowledging pronouns in the workplace
 * [Designing for Ramadan 2023](https://www.gouldstudio.com/insights/designing-for-ramadan-2023): Really great read on Ramadan, the pre and post activities and how organizations can build services & products that are inclusive to this community.
 * [Rivers to Success](https://riverstosuccess.ca/indspire-climbing-the-mountain-for-employees): Great 30 minute course for non-indigenous employees to better understand history around our indigenous communities. I find that our media fails to really provide adequate coverage of Indigenous history so I strongly recommend for individuals to be proactive with their own education.
