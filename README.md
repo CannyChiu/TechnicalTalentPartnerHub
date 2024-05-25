@@ -34,6 +34,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Workplace Investigations for the Human Resources Professional](https://openeducationalberta.ca/workplaceinvestigationshr/): Great primer on what the investigation process looks like. As someone not involved with these activities in my organization, the information was digestible and useful. Resource is free which is helpful for self-taught HR professionls lacking the HR academic background.
 * [Pyn: Employee Experience Process Mapping](https://www.pynhq.com/): great, FREE tool to process map talent processes, you're able to collaborate with peers and expert visuals. It's like Figma for HR.
 * [Talent Density - Coinbase](https://www.coinbase.com/blog/talent-density-at-coinbase) We're moving to a corporate world where growth =/= headcount increases. It's important to build lean and highly skilled organizations. I know the topic of "talent density" is a bit controversial, but as someone that subscribes to the Netflix approach to talent, I really enjoyed this blog post.
+* [How to Build High-Performing Teams: Olympic Lessons from Team Canada](https://smith.queensu.ca/insight/content/How-to-Build-High-Performing-Teams-Olympic-Lessons-from-Team-Canada.php?utm_source=webinarregistrants&utm_medium=email&utm_campaign=insight2024_webinar_teams_coc): a fireside chat with several Olympic Athletes on diversity in coaches, psychological safety, feedback culture, and more. Very interesting!
 
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
