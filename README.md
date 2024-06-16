@@ -36,6 +36,9 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Talent Density - Coinbase](https://www.coinbase.com/blog/talent-density-at-coinbase) We're moving to a corporate world where growth =/= headcount increases. It's important to build lean and highly skilled organizations. I know the topic of "talent density" is a bit controversial, but as someone that subscribes to the Netflix approach to talent, I really enjoyed this blog post.
 * [How to Build High-Performing Teams: Olympic Lessons from Team Canada](https://smith.queensu.ca/insight/content/How-to-Build-High-Performing-Teams-Olympic-Lessons-from-Team-Canada.php?utm_source=webinarregistrants&utm_medium=email&utm_campaign=insight2024_webinar_teams_coc): a fireside chat with several Olympic Athletes on diversity in coaches, psychological safety, feedback culture, and more. Very interesting!
 
+## **A curated collection of resources to understanding the Enneagram:**
+* [Clearer Thinking - combined MBTI, Myers Brigg, Big Five Personality trait](https://programs.clearerthinking.org/personality.html?_gl=1%2A1emkm7l%2A_ga%2AMjA0NzQ1NTg3OC4xNzE3ODQxMjQ3%2A_ga_58RPQ2D860%2AMTcxODU0NTkzNC40LjEuMTcxODU0NjA0NS41OC4wLjA.): A free, short 20 minute test that provides insights on an individual in the forms of your MBTI, Myers Brigg and Big Five traits.
+* [Abbey Howe - Best Careers for Each Enneagram](https://abbeyhowe.com/blogs/enneagram/which-career-is-best-for-your-enneagram-type): suggested career paths based on an individual's enneagram!
 
 ## **A curated collection of resources to better understand Total Rewards/Compensation:**
 * [What is Equity by Carta](https://carta.com/equity/learn/what-is-equity/): great resource on understanding equity, cap tables, vesting and more.
