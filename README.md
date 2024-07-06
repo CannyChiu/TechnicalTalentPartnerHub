@@ -146,6 +146,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Kaggle - Your Machine Learning and Data Science Community](https://www.kaggle.com/): I would equate Kaggle to the Github/StackOverflow of Data Science. It's a great place to check out data sets, ask questions and network with other Data Science/Data Analytics professionals. 
 * [Data Science - Tools & Python frameworks Primer](https://sqlpad.io/tutorial/master-python-for-data-science-ides-libraries-frameworks/): Great primer on the tools of a Data Scientist (Jupyter Notebook) and unpacks the various Python libraries that can be used for Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow & Pytorch.
 * [Centralized vs. Decentralized Data Teams](https://www.getdbt.com/data-teams/centralized-vs-decentralized): thoughtful article on the pros and cons of centralized vs. decentralized data teams in enterprise organizations.
+* [Hiring Machine Learning Engineers](https://www.getrocket.com/post/ml-engineers): a primer on hiring machine learning engineers: what to look for on a resume, the overall persona, key skills.
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
