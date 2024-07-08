@@ -147,6 +147,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Data Science - Tools & Python frameworks Primer](https://sqlpad.io/tutorial/master-python-for-data-science-ides-libraries-frameworks/): Great primer on the tools of a Data Scientist (Jupyter Notebook) and unpacks the various Python libraries that can be used for Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow & Pytorch.
 * [Centralized vs. Decentralized Data Teams](https://www.getdbt.com/data-teams/centralized-vs-decentralized): thoughtful article on the pros and cons of centralized vs. decentralized data teams in enterprise organizations.
 * [Hiring Machine Learning Engineers](https://www.getrocket.com/post/ml-engineers): a primer on hiring machine learning engineers: what to look for on a resume, the overall persona, key skills.
+* [The Data Team Playbook: 50+ Resources For High-Performing Data Teams](https://seattledataguy.substack.com/p/the-data-team-playbook-50-resources): Great resource hub for Data leaders, lots of content on key topics like: resources for new managers, coaching and mentorship of your team, team design, hiring & onboarding, data infrastructure design, and more!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
