@@ -149,6 +149,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Hiring Machine Learning Engineers](https://www.getrocket.com/post/ml-engineers): a primer on hiring machine learning engineers: what to look for on a resume, the overall persona, key skills.
 * [The Data Team Playbook: 50+ Resources For High-Performing Data Teams](https://seattledataguy.substack.com/p/the-data-team-playbook-50-resources): Great resource hub for Data leaders, lots of content on key topics like: resources for new managers, coaching and mentorship of your team, team design, hiring & onboarding, data infrastructure design, and more!
 * [Data Warehousing Essentials: A Guide To Data Warehousing](https://www.theseattledataguy.com/data-warehousing-essentials-a-guide-to-data-warehousing/#page-content): great resource on the basics of Data Warehousing, the nuances between Data Warehouses and other data storage tools, schema design and considerations for the design of data warehouses.
+* [Free Learning Path on Data Engineering - Seattle Data Guy](https://www.linkedin.com/posts/benjaminrogojan_dataengineering-activity-7218751177855782912-WTC4?utm_source=share&utm_medium=member_desktop): curated list of resources for all the foundational Data Engineering topics. Great learning path!
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
