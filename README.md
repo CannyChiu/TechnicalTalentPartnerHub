@@ -149,6 +149,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Centralized, Decentralized & Federated Data Teams](https://www.theseattledataguy.com/how-to-set-up-your-data-analytics-team-for-success-centralized-vs-decentralized-vs-federated-data-teams/#page-content): thoughtful article on the implications of various types of Data team structures. 
 * [Hiring Machine Learning Engineers](https://www.getrocket.com/post/ml-engineers): a primer on hiring machine learning engineers: what to look for on a resume, the overall persona, key skills.
 * [Data Warehousing Essentials: A Guide To Data Warehousing](https://www.theseattledataguy.com/data-warehousing-essentials-a-guide-to-data-warehousing/#page-content): great resource on the basics of Data Warehousing, the nuances between Data Warehouses and other data storage tools, schema design and considerations for the design of data warehouses.
+* [How top data teams are structured](https://medium.com/@mikldd/how-top-data-teams-are-structured-48d46a64b990): Interesting breakdown of how different tech companies divide between insights, data engineering and machine learning.
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
