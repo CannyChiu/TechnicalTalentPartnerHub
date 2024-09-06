@@ -150,6 +150,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Hiring Machine Learning Engineers](https://www.getrocket.com/post/ml-engineers): a primer on hiring machine learning engineers: what to look for on a resume, the overall persona, key skills.
 * [Data Warehousing Essentials: A Guide To Data Warehousing](https://www.theseattledataguy.com/data-warehousing-essentials-a-guide-to-data-warehousing/#page-content): great resource on the basics of Data Warehousing, the nuances between Data Warehouses and other data storage tools, schema design and considerations for the design of data warehouses.
 * [How top data teams are structured](https://medium.com/@mikldd/how-top-data-teams-are-structured-48d46a64b990): Interesting breakdown of how different tech companies divide between insights, data engineering and machine learning.
+* [Batch vs Stream Processing](https://www.datacamp.com/blog/batch-vs-stream-processing): breakdown of the trade-offs between the different types of data streaming and common tools used for both.
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
