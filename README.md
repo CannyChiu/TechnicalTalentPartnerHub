@@ -153,6 +153,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [How top data teams are structured](https://medium.com/@mikldd/how-top-data-teams-are-structured-48d46a64b990): Interesting breakdown of how different tech companies divide between insights, data engineering and machine learning.
 * [Batch vs Stream Processing](https://www.datacamp.com/blog/batch-vs-stream-processing): breakdown of the trade-offs between the different types of data streaming and common tools used for both.
 * [Full Breakdown of all of the technologies and tools used across the Data & ML ecosystem](https://mad.firstmark.com/): great visual that breaks up the different tools used throughout the entire data ecosystem.
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/): step by step walk through/under the hood walk through of 0-1 machine learning model development, training & validation, testing, deployment and productionizing a ML model.
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
