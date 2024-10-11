@@ -154,6 +154,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Batch vs Stream Processing](https://www.datacamp.com/blog/batch-vs-stream-processing): breakdown of the trade-offs between the different types of data streaming and common tools used for both.
 * [Full Breakdown of all of the technologies and tools used across the Data & ML ecosystem](https://mad.firstmark.com/): great visual that breaks up the different tools used throughout the entire data ecosystem.
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/): step by step walk through/under the hood walk through of 0-1 machine learning model development, training & validation, testing, deployment and productionizing a ML model.
+* [An explanation of how Recommendation Systems work](https://developers.google.com/machine-learning/recommendation):interesting read if you were ever curious on how products like Netflix can generate video recommendations for you. 
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
