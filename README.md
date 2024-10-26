@@ -154,7 +154,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Batch vs Stream Processing](https://www.datacamp.com/blog/batch-vs-stream-processing): breakdown of the trade-offs between the different types of data streaming and common tools used for both.
 * [Full Breakdown of all of the technologies and tools used across the Data & ML ecosystem](https://mad.firstmark.com/): great visual that breaks up the different tools used throughout the entire data ecosystem.
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/): step by step walk through/under the hood walk through of 0-1 machine learning model development, training & validation, testing, deployment and productionizing a ML model.
-* [An explanation of how Recommendation Systems work](https://developers.google.com/machine-learning/recommendation):interesting read if you were ever curious on how products like Netflix can generate video recommendations for you. 
+* [An explanation of how Recommendation Systems work](https://developers.google.com/machine-learning/recommendation):interesting read if you were ever curious on how products like Netflix can generate video recommendations for you.
+* [MLOps: What It Is, Why It Matters, and How to Implement It](https://neptune.ai/blog/mlops): introduction to ML Ops and common tools used
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
@@ -167,6 +168,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Product Management Basics](https://www.productledcertified.com/product-management-basics): great for those that are intrigued by "Product Management" and want a 3 hour, FREE primer.
 * [Mind The Product - Skills Inventory for Product Managers](https://www.mindtheproduct.com/wp-content/uploads/2021/02/Mind-the-Product-Skills-Assessment-PDF.pdf): if you're looking to build a skills inventory or rubricfor your PM craft, this is a great resource.
 * [Product Analytics Certification](https://www.productledcertified.com/product-analytics?pc=pmbasics): FREE course on Product Analytics.
+* [How PM specializations shape the user experience](https://medium.com/design-bootcamp/how-pm-specializations-shape-the-user-experience-b1e4df67faed): great article that talks about how product management differs depending on the type of problem being solved.
 
 ### **UX/Product Design/Product Research:**
 * [A collection of various company's design principles ](https://www.designprinciplesftw.com/)
