@@ -346,7 +346,9 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 ### **Machine Learning Engineering**
 - Toronto Machine Learning Summit: https://www.torontomachinelearning.com/
 - ACM Conference Series for Recommender Systems: https://recsys.acm.org/
-- 
+- DeepLearning.AI forum: https://community.deeplearning.ai/
+- NeuRIPS: https://neurips.cc/
+- ML Ops Community: https://home.mlops.community/
 
 ### **AI Engineering**
 
