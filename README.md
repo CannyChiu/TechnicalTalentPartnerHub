@@ -157,6 +157,8 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [An explanation of how Recommendation Systems work](https://developers.google.com/machine-learning/recommendation):interesting read if you were ever curious on how products like Netflix can generate video recommendations for you.
 * [MLOps: What It Is, Why It Matters, and How to Implement It](https://neptune.ai/blog/mlops): introduction to ML Ops and common tools used
 * [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/?trk=feed-detail_main-feed-card_feed-article-content)
+* [10 Ways to Be Data Illiterate (and How to Avoid Them)](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/)
+* [The Rise of the AI engineer](https://www.latent.space/p/ai-engineer)
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
