@@ -330,13 +330,26 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * Ministry of Testing Toronto: https://www.meetup.com/Ministry-of-Testing-Toronto/
 * Software Test Automation: https://www.meetup.com/Software-Test-Automation/
 
-### **Data Science/Data Engineering**
-* Data, Cloud and AI in Toronto: https://www.meetup.com/Big-Data-Developers-in-Toronto/
+### **Data Science**
+
 * Women in AI & Machine Learning: https://www.meetup.com/WinAIML/
-* [SLACK] Datatalks: https://datatalks.club/slack.html
 * [SLACK] AI Researchers: https://slofile.com/slack/ai-researchers
 * [SLACK] Data Science Community: https://community.dataquest.io/
-* [SLACK] Power BI User: https://slofile.com/slack/powerbiusers
+
+### **Data Engineering**
+- dbt Slack community: https://www.getdbt.com/community
+- Coalesce - the Analytics Engineering Conference: https://coalesce.getdbt.com/
+- Snowflake Data Cloud Summit: https://www.snowflake.com/summit/on-demand/
+- Data & AI Summit: https://www.databricks.com/dataaisummit
+
+
+### **Machine Learning Engineering**
+- Toronto Machine Learning Summit: https://www.torontomachinelearning.com/
+- ACM Conference Series for Recommender Systems: https://recsys.acm.org/
+- 
+
+### **AI Engineering**
+
 
 **Some diversity and inclusion organizations to be involved with: (note: this is not a comprehensive list - would love referrals to new organizations as well!)**
 ### **BIPOC Communities in Tech**
