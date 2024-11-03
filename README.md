@@ -156,6 +156,7 @@ Now that I've spent my first chapter of my talent career honing my recruiting ba
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/): step by step walk through/under the hood walk through of 0-1 machine learning model development, training & validation, testing, deployment and productionizing a ML model.
 * [An explanation of how Recommendation Systems work](https://developers.google.com/machine-learning/recommendation):interesting read if you were ever curious on how products like Netflix can generate video recommendations for you.
 * [MLOps: What It Is, Why It Matters, and How to Implement It](https://neptune.ai/blog/mlops): introduction to ML Ops and common tools used
+* [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/?trk=feed-detail_main-feed-card_feed-article-content)
 * [Career Progression frameworks in the tech space](https://progression.fyi/)
 
 ### **Product Management:**
