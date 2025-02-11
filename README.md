@@ -189,6 +189,7 @@ Over the last 7 years, I've really enjoyed partnering with UX, Security, Interna
 `**NOTE: this was a crowd-sourced initiative and I was only one of the contributors, I do not take credit for the amazing work pulled together by the volunteers**`
 * International Job Posting: https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/
 `**NOTE: this was another crowd-sourced initiative by RecruitingBrainfood, I do not take credit!**`
+* A platform specifically to find data relatated jobs: https://www.datateams.ai
 
 ### **Web Development Meet-ups**
 * Microsoft Reactor Toronto: https://www.meetup.com/Microsoft-Reactor-Toronto/
