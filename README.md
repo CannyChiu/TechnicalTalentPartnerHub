@@ -173,24 +173,3 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [Cybersecurity Role Map](https://shellsharks.com/cybersecurity-role-map#title): Fantastic mind map that tries to differentiate the multitude of career paths in the Trust/Infosec space. Not many people know about the depth and breadth in Security: Security Engineering, Network Security Legal, Fraud Ops, Physical Security, Compliance, and much much more.
 * [OWASP](https://owasp.org/): Industry practices on software and network security.
 * [What is Security Engineering](https://newsletter.pragmaticengineer.com/p/security-engineering) and [Part 2](https://newsletter.pragmaticengineer.com/p/security-engineering-part-2): Great piece from Pragmatic Engineer that walks through the common myths of App Sec, its evolution throughout the years and how it integrates into the software development lifecycle.
-
-## Technology Talent Communities (Job Boards, Slack Channels, Diversity in Tech Partners, etc) - Not updating
-* I firmly believe in the importance of understanding the business areas/groups that you support as a recruiter. I have included online communities & channels that a technical recruiter can engage & partner with. As always, I believe it's important to acknowledge that these communities are not just used for recruitment so please abide community engagement rules in each respective channel.
-* NOTE: I merged this section from my old content and didn't have enough time to fix the mark-up. Work In-Progress!
-
-### **Tech Job Boards/master reference:**
-* **https://docs.google.com/spreadsheets/d/1IUiVhhH0aWVvigoiup9MitgGmosTtE5Cx7M_OwIq5H4/edit#gid=0
-`**NOTE: this was a crowd-sourced initiative and I was only one of the contributors, I do not take credit for the amazing work pulled together by the volunteers**`
-* International Job Posting: https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/
-`**NOTE: this was another crowd-sourced initiative by RecruitingBrainfood, I do not take credit!**`
-
-### **Indigenous Communities in Tech**
-* Technology Council (Indigenous communities in Tech - CAN): https://technologycouncil.ca/
-* American Indian Science and Engineering Society (Indigenous communities in Tech - US): https://www.aises.org/
-* Centre for Indigenous Innovation & Technology (Indigenous communities in Tech - CAN): https://ciit.io/
-* PLATO - Indigenous Software Testers: https://www.linkedin.com/in/scott-dillon-b-mgmt-19a69056/?originalSubdomain=ca
-
-### **Military Communities in Tech**
-* Operation Code (Military Veterans in Tech - US): https://operationcode.org/
-* Veterans Who Code (Military Veterans in Tech - CAN): https://vetswhocode.io/
-* Solders in Tech (Military Veterans in Tech - CAN): https://www.rolandgossagefoundation.com/soldiersintech
