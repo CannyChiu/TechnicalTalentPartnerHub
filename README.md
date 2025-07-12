@@ -44,7 +44,22 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [Carta - 2023 Equity Report](https://carta.com/blog/startup-compensation-h2-2023/): fantastic insights on the current state of hiring/comp including topics like the size of equity grants, hiring appetitite across functions and an interesting discussion on IC vs. Manager appetite. 
 
 
-## **A curated collection of resources to better understand the craft of Recruiting & Sourcing in Technology:**
+## **A curated collection of resources to better understand the craft of Talent Acquisition:**
+* [Canny's Tech Recruitment Roadmap.sh](https://roadmap.sh/r/technical-recruitment-roadmap): A curated recruiting learning roadmap for a beginner Technical Recruiter to ramp on R&D recruitment. With my switch to the world of HRBP work, I will leave this in maintenance mode for future recruiters to use.
+* [Company Insights](https://craft.co/): Great for talent market intelligence or sourcing. It helps a talent individual assess the shape, size, products and competitors using search filters. I loved using this tool when I worked on HCM-niche searches.
+* [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
+* [trueup layoffs tracker](https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
+* [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
+* [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
+* [Talent Sourcing Seniority Ladder](https://docs.google.com/spreadsheets/d/1g5VvxQwaC4L8RI8zPZXeXj0_YnFz1XWKx48s0i9jvxU/edit?usp=sharing): Denys shares an example of a career progression framework for Talent Sourcers. Wanted to capture this as a I find Sourcers don't get as much attention or love in most Talent Acquisition organizations.
+* [Talent Sourcing Technical Toolbox](https://wizardsourcer.com/tools/): WizardSourcer is a great place to find different tools to incorporate into your TA tech stack, from things like Boolean generators, Email finders, Github scrapers, Customized Search Engines and much more. Must read if you're constantly on the hunt to improve your TA tech stack.
+* [Skill Roadmaps](https://roadmap.sh/): great tool that breaks down typical R&D crafts into a road map of related skills - worth diving into when you pivot to a more unknown R&D group.
+* [State of the Software Engineering Market in 2024](https://newsletter.pragmaticengineer.com/p/state-of-eng-market-2024) Gergely speaks on hiring trends in the last year, including fastest growing engineering subdisciplines.
+* [Recruiting Brainfood](https://www.recruitingbrainfood.com/ ): Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles. I believe he is more tapped into the European hiring markets.
+* [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
+* [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
+* [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
+  
 ### **Video/E-Learning Resources:**
 * [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
 * [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
@@ -76,26 +91,6 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
 
-### **Talent Sourcing, Talent Market Intelligence Practices:**
-* [Company Insights](https://craft.co/): Great for talent market intelligence or sourcing. It helps a talent individual assess the shape, size, products and competitors using search filters. I loved using this tool when I worked on HCM-niche searches.
-* [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
-* [trueup layoffs tracker](https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
-* [StackOverflow Dev Survey](https://insights.stackoverflow.com/survey/2021): Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
-* [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/reports/scoring-tech-talent-in-north-america-2021#top-talent-markets): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
-* [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
-* [Talent Sourcing Seniority Ladder](https://docs.google.com/spreadsheets/d/1g5VvxQwaC4L8RI8zPZXeXj0_YnFz1XWKx48s0i9jvxU/edit?usp=sharing): Denys shares an example of a career progression framework for Talent Sourcers. Wanted to capture this as a I find Sourcers don't get as much attention or love in most Talent Acquisition organizations.
-* [Talent Sourcing Technical Toolbox](https://wizardsourcer.com/tools/): WizardSourcer is a great place to find different tools to incorporate into your TA tech stack, from things like Boolean generators, Email finders, Github scrapers, Customized Search Engines and much more. Must read if you're constantly on the hunt to improve your TA tech stack.
-* [A new future of work: The race to deploy AI and raise skills in Europe and beyond](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond?trk=article-ssr-frontend-pulse-lite_little-text-block): great summary of the evolving skills mix organizations will need in the age of Generative AI, provides insights projected to 2030!
-* [Skill Roadmaps](https://roadmap.sh/): great tool that breaks down typical R&D crafts into a road map of related skills - worth diving into when you pivot to a more unknown R&D group.
-* [State of the Software Engineering Market in 2024](https://newsletter.pragmaticengineer.com/p/state-of-eng-market-2024) Gergely speaks on hiring trends in the last year, including fastest growing engineering subdisciplines.
-
-### **Talent Acquisition Communities:**
-* [TechRecruit](https://www.techrecruit.io/): Stacey has built a really great technical recruiting community, I especially love her Dueling Sourcers web series where Sourcers compete and share their tools used for their various hunts!
-* [Recruiting Brainfood](https://www.recruitingbrainfood.com/ ): Love Hung Lee's community, his website contains a great number of global job boards and he has a facebook community + weekly distribution list of thought-provoking talent acquisition articles. I believe he is more tapped into the European hiring markets.
-* [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
-* [Wizard Sourcer](https://wizardsourcer.com/tools/ ): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
-* [One Req](https://onereq.com/): Great community for recruiting professionals to share tips and tricks! Big focus on Early Talent/Campus Recruiting!
-* [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 
 ## **Understanding the R&D Business Groups (Engineering, UX, Trust, Data, Product):**
 
