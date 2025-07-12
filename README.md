@@ -59,12 +59,8 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
-  
-### **Video/E-Learning Resources:**
-* [WomenWhoCode](https://www.youtube.com/user/WomenWhoCode): Great videos and content to understand the various aspects of information technology!
-* [Geekruiter Academy](https://www.youtube.com/channel/UCvfRMDDiKKqNVaezfvBVR0A/videos ): -> Geekruiter is a fascinating resource, Michal is a former CTO of a start-up that now trains technical recruiters. He delivers various trainings through boot camps, mind maps, booklets, etc. I used alot of his content to understand the various relationships across technologies/languages/frameworks/tools.
-* [Holistica IT Training](https://holistica.co.uk/): Ayub is fantastic, I know he's based in the UK and primarily focuses on training technical recruiters. His content covers tech recruiting in development, IT support/infrastructure, data/machine learning + AI! 
-* [LinkedIn Learning](https://www.linkedin.com/learning/): I'm a huge fan of LinkedIn Learning - I find it's a great resource for all of the soft skills required for successful recruiting (communication skills, problem solving, data analysis, negotiation, project management, diversity, inclusion & belonging, and more). Some public libraries provide LinkedIn Learning subscriptions so you may be able to get the above resource for free.
+* [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
+* [The Modern Recruiter](https://themodernrecruiter.substack.com/): great podcasts on the latest trends within the TA space - highly recommend!
 * [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
 * [How to work with Engineers - Technically](https://technically.dev/tracks/working-with-developers): I'm a paid subscriber to Technically which is a blog that shares lots of great ELI5 summaries of various topics in Engineering. It ranges from many topics like what is front-end, to explaining "no-code/low code" or deep diving into certain technologies like Kubernetes. Worth reading if you are a technical recruiter that is missing a strong computer science background.
 
@@ -77,13 +73,6 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * ["Full Stack Recruiter" - Jan Tegze ](https://fullstackrecruiter.net/): Teaches you about sourcing across various channels like Github/Facebook/Meet-up/etc.
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book): Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner): Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
-
-
-### **Podcasts:**
-* [MATT ALDER: Recruiting Future](https://recruitingfuture.com/)
-* [HIRED: Talk Talent To Me ](https://hired.com/blog/employers/talk-talent-to-me-recruiting-podcast/)
-* [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
-* [The Modern Recruiter](https://themodernrecruiter.substack.com/): great podcasts on the latest trends within the TA space - highly recommend!
 
 ### **Blogs or news sites to follow tech news/trends:**
 
