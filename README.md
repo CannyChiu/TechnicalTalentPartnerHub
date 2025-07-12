@@ -46,7 +46,6 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 
 ## **A curated collection of resources to better understand the craft of Talent Acquisition:**
 * [Canny's Tech Recruitment Roadmap.sh](https://roadmap.sh/r/technical-recruitment-roadmap): A curated recruiting learning roadmap for a beginner Technical Recruiter to ramp on R&D recruitment. With my switch to the world of HRBP work, I will leave this in maintenance mode for future recruiters to use.
-* [Company Insights](https://craft.co/): Great for talent market intelligence or sourcing. It helps a talent individual assess the shape, size, products and competitors using search filters. I loved using this tool when I worked on HCM-niche searches.
 * [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
 * [trueup layoffs tracker](https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
 * [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/search-insights-results#q=tech%20talent&sort=relevancy&numberOfResults=9): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
@@ -59,10 +58,6 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
-* [Tech Recruitment- Michael Juhas ](https://www.techrecruitmentpodcast.com/)
-* [The Modern Recruiter](https://themodernrecruiter.substack.com/): great podcasts on the latest trends within the TA space - highly recommend!
-* [AIRS Powered by ADP](https://airsdirectory.com/collections/certifications): When I started in recruiting, I ended up taking both the CIR and PRC certifications through AIRS. Gave great insights on sourcing via Boolean strings and the foundational knowledge of being a Talent Acquisition Partner.
-* [How to work with Engineers - Technically](https://technically.dev/tracks/working-with-developers): I'm a paid subscriber to Technically which is a blog that shares lots of great ELI5 summaries of various topics in Engineering. It ranges from many topics like what is front-end, to explaining "no-code/low code" or deep diving into certain technologies like Kubernetes. Worth reading if you are a technical recruiter that is missing a strong computer science background.
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
@@ -111,7 +106,7 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [Technically - What's an API (Application Programming Interface)](https://technically.substack.com/p/whats-an-api): very succint explanation on what APIs are! Highly recommend a read if you've never worked on software products before, APIs are a cornerstone of application development.
 * [Technically - The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases): I loved this article - there are so many different databases that Engineers or Data Scientists can use. The article explains the nuances between databases that can be used for production apps, analytics and infrastructure support with clear examples of each!
 * [What exactly is Github Copilot](https://www.codecademy.com/article/what-is-github-copilot): great primer for a non-engineer to understand the impact on Generative AI on software development. I do believe copilot will improve the quality of life for engineers through rapid code generation, documentation support, unit testing support and more. Ultimately, the Engineer still needs to understand what is happening, adhere to their code base practices and consider security, but it is a meaningful tool.
-* [What happens when an app goes down? All about outages](https://read.technically.dev/p/what-happens-when-an-app-goes-down): explains the types of outages that can occur in a common SaaS product. 
+* [What happens when an app goes down? All about outages](https://read.technically.dev/p/what-happens-when-an-app-goes-down): explains the types of outages that can occur in a common SaaS product.
 
 ### **Data Engineering/Data Science:**
 * [AI Fundamentals for Non-Data Scientists](https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists): 4 week program from Wharton unpacking the foundations of AI. Big data implications, tools for management and analysis of big data, explanations of the different types of machine learning, and more.  
