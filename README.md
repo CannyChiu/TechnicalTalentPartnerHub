@@ -70,13 +70,6 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * ["How to Speak Tech" - Vinay Trivedi](https://www.vinaytrivedi.com/book): Great resource for recruiters that are just starting off in technical recruiting and need to learn about how software development works. Imagine a technical terms 101 guide.
 * ["Stop Asking Questions" -Andrew Warner](https://www.damngravity.com/books/stop-asking-questions-by-andrew-warner): Wonderful tips on how a recruiter can guide deeper conversations through the art of interviewing.
 
-### **Blogs or news sites to follow tech news/trends:**
-
-* [BetaKit](https://betakit.com/)
-* [InfoQ](https://www.infoq.com/): Great for heavy duty deep dives into all sorts of technical topics and follow software development trends 
-* [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Great for big tech intel and opinion pieces on engineering related topics.
-
-
 ## **Understanding the R&D Business Groups (Engineering, UX, Trust, Data, Product):**
 
 ### **Campus Recruiting/Early Talent:**
@@ -108,6 +101,7 @@ Over the last 8 years, I've really enjoyed partnering with UX, Security, Interna
 * [Technically - The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases): I loved this article - there are so many different databases that Engineers or Data Scientists can use. The article explains the nuances between databases that can be used for production apps, analytics and infrastructure support with clear examples of each!
 * [What exactly is Github Copilot](https://www.codecademy.com/article/what-is-github-copilot): great primer for a non-engineer to understand the impact on Generative AI on software development. I do believe copilot will improve the quality of life for engineers through rapid code generation, documentation support, unit testing support and more. Ultimately, the Engineer still needs to understand what is happening, adhere to their code base practices and consider security, but it is a meaningful tool.
 * [What happens when an app goes down? All about outages](https://read.technically.dev/p/what-happens-when-an-app-goes-down): explains the types of outages that can occur in a common SaaS product.
+* [The reality of AI-Assisted software engineering productivity]([The reality of AI-Assisted software engineering productivity](https://addyo.substack.com/p/the-reality-of-ai-assisted-software?utm_campaign=post&utm_medium=web&triedRedirect=true): thought piece on the current state of AI x Engineering productivity - incremental gains, but not necessarily pointing towards a complete change of the game.
 
 ### **Data Engineering/Data Science:**
 * [AI Fundamentals for Non-Data Scientists](https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists): 4 week program from Wharton unpacking the foundations of AI. Big data implications, tools for management and analysis of big data, explanations of the different types of machine learning, and more.  
