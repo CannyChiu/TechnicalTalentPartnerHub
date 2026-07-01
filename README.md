@@ -65,7 +65,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
-
+* [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space. 
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
