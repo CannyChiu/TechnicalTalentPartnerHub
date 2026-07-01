@@ -14,6 +14,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [9 Box Model - Talent Management](https://www.aihr.com/blog/9-box-grid/): a model/framework that can be used by leaders to conceptualize the potential and performance of an organization. Useful for resource allocation, performance management and feedback.
 * [Leveling Up Teams Fast and Slow](https://blog.staysaasy.com/p/leveling-up-teams-fast-and-slow): strategies on debugging team performance.
 * [Exactly Why and How AI Will Replace Knowledge Work](https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work): With the evolution of chats -> agents, I personally have changed my stance on the future of work. I think org charts are going to change significantly over the next few years as AI & Agents evolve and orgs become a mix of humans and processes handled through agents. Agents will not impact all jobs in the same way. I strongly believe that roles/positions that involve decision making, human ambiguity and creativity will continue to exist. Pure execution/task focused roles will be automated by agents/tool calls.
+  
 
 ## **A curated collection of resources for People Managers:**
 * [How I talk to Leaders About Firing People](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b): Really honest article about PIPs, what needs to be done to be fair to the employee and also acknowledges the importance of the manager in owning responsibility for this failed relationship.
@@ -23,7 +24,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [The engineering manager's attention budget](https://newsletter.manager.dev/p/the-engineering-manager-s-attention-budget): I partner with Engineering people leaders daily in my role as a HR Partner. The role of a "manager" is multi-faceted, it involves being able to leverage a toolbox of skills: Delivery, People, Support, Technical Direction and future thinking and knowing WHEN to prioritize skills. I often see managers that are only good at 1 of the skills or fails to adjust based on the needs of the situation.
 * [The Shift to Managing Managers](https://kevingoldsmith.substack.com/p/the-shift-to-managing-managers): I work with Executives, Directors and Senior Managers everyday. The skills that make you a good individual contributor or a good middle manager are not the same skills needed to be excellent at managing other people leaders. It's a new toolkit you have to hone.
 * [GROW Model For Coaching](https://www.coachingcultureatwork.com/the-grow-model/): great model and framing for 1:1s to encourage ownership from the receipient of the coaching.
-
+* [Strategic Talent Acquisition - Internal vs External Hiring considerations](https://hashtagpeople.substack.com/p/strategic-people-decisions-5-build): before any recruiting efforts, a manager should be considering the implications of hiring for a role. The framework in the article is a tangible way for a recruiter to uplevel the intake discussion and play the role of a thought partner rather than req filler
   
 ## **A curated collection of resources on Diversity, Inclusion & Equity:**
 * [Tips for job seekers, recruiters and leaders on building a diverse & inclusive workforce (Ceridian)](https://www.ceridian.com/ca/blog/job-seekers-recruiters-leaders-inclusive-workplace): shameless plug, I wrote the article when I was a Pride ERG Co-Chair at my last company
@@ -54,7 +55,6 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 
 ## **A curated collection of resources to better understand the craft of Talent Acquisition:**
 * [Canny's Tech Recruitment Roadmap.sh](https://roadmap.sh/r/technical-recruitment-roadmap): A curated recruiting learning roadmap for a beginner Technical Recruiter to ramp on R&D recruitment. With my switch to the world of HRBP work, I will leave this in maintenance mode for future recruiters to use.
-* [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
 * [trueup layoffs tracker](https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
 * [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/search-insights-results#q=tech%20talent&sort=relevancy&numberOfResults=9): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
@@ -65,7 +65,8 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [ThePeoplePeopleGroup](https://www.thepeoplepeoplegroup.com/): For my Toronto HR folks, PPG is an awesome slack community for networking and resource sharing among Toronto-based Human Resources Professionals.
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
-* [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space. 
+* [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space.
+* 
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
@@ -103,7 +104,9 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [The AI-Native Software Engineer](https://addyo.substack.com/p/the-ai-native-software-engineer): a walk through of how AI can be used in all parts of the software development lifecycle (from the POV of a Software Engineer).
 * [How to Win the AI Talent War](https://www.getflack.com/p/how-to-win-the-ai-talent-war): Having recruited for some very niche, high demand technical roles over the last decade, this article rings true, whether in the Machine Learning context or otherwise. World class Engineers are not true mercenaries, people buy into a mission and want to work with stunning Engineers and Technologists.
 * [How Coding Agents Are Reshaping Engineering, Product and Design](https://x.com/hwchase17/status/2031051115169808685?): Interesting coffee read on the new Product, Design and Engineering relationship in the world of agentic development. The below diagram highlights the merging of Engineering chops and Product/Design thinking that will start to exist in all of the R&D disciplines.
-* [Engineering Metrics for Beginners](https://blog.jgefroh.com/p/engineering-metrics-for-beginners?): as an Engineering leader, there are many categories of metrics to be mindful of, the level of focus depends on the situational context and data. 
+* [Engineering Metrics for Beginners](https://blog.jgefroh.com/p/engineering-metrics-for-beginners?): as an Engineering leader, there are many categories of metrics to be mindful of, the level of focus depends on the situational context and data.
+* [Forward Deployed Engineers](https://www.rocketlane.com/blogs/forward-deployed-engineer#what-is-a-forward-deployed-engineer-what-does-that-mean): good read on what FDEs are, the history and how it compares to other Commercial roles (Launch Specialists, Solutions Engineers, and more).
+* 
 
 ### **Data Engineering/Data Science:**
 * [AI Fundamentals for Non-Data Scientists](https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists): 4 week program from Wharton unpacking the foundations of AI. Big data implications, tools for management and analysis of big data, explanations of the different types of machine learning, and more.  
