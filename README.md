@@ -66,7 +66,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 * [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space.
-* 
+* [No Stupid Questions](https://no-stupid-questions.vercel.app/): very great ELI5 resource on AI, Terminal, MCP basics. 
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
@@ -106,7 +106,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [How Coding Agents Are Reshaping Engineering, Product and Design](https://x.com/hwchase17/status/2031051115169808685?): Interesting coffee read on the new Product, Design and Engineering relationship in the world of agentic development. The below diagram highlights the merging of Engineering chops and Product/Design thinking that will start to exist in all of the R&D disciplines.
 * [Engineering Metrics for Beginners](https://blog.jgefroh.com/p/engineering-metrics-for-beginners?): as an Engineering leader, there are many categories of metrics to be mindful of, the level of focus depends on the situational context and data.
 * [Forward Deployed Engineers](https://www.rocketlane.com/blogs/forward-deployed-engineer#what-is-a-forward-deployed-engineer-what-does-that-mean): good read on what FDEs are, the history and how it compares to other Commercial roles (Launch Specialists, Solutions Engineers, and more).
-* 
+
 
 ### **Data Engineering/Data Science:**
 * [AI Fundamentals for Non-Data Scientists](https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists): 4 week program from Wharton unpacking the foundations of AI. Big data implications, tools for management and analysis of big data, explanations of the different types of machine learning, and more.  
