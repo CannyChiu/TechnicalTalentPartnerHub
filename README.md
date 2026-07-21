@@ -65,6 +65,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 * [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space.
 * [No Stupid Questions](https://no-stupid-questions.vercel.app/): very great ELI5 resource on AI, Terminal, MCP basics.
+* [Respectful Rejections](https://www.linkedin.com/posts/glencathey_the-respectful-rejection-email-playbook-ugcPost-7483634589530304512-HUMb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJEMQQBK9CZIi37S6GCfxf8JRfqUZBEAMI): as Recruiters, we build life long relationships with candidates even if we don't hire them the first go around. Part of recruiting is rejecting folks. I think how you do it should be respectful and ideally, you provide feedback, resources and connections to help the individual along in their journey.
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
