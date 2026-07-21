@@ -54,9 +54,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 
 
 ## **A curated collection of resources to better understand the craft of Talent Acquisition:**
-* [Canny's Tech Recruitment Roadmap.sh](https://roadmap.sh/r/technical-recruitment-roadmap): A curated recruiting learning roadmap for a beginner Technical Recruiter to ramp on R&D recruitment. With my switch to the world of HRBP work, I will leave this in maintenance mode for future recruiters to use.
 * [trueup layoffs tracker](https://www.trueup.io/layoffs): I much prefer the data integrity of trueup vs. layoff fyi. Trueup hyperlinks the actual articles discussing the layoff news at various companies.
-* [CBRE - Scoring Top Tech Markets](https://www.cbre.com/insights/search-insights-results#q=tech%20talent&sort=relevancy&numberOfResults=9): Great if you're thinking of trying to identify more niche talent pools outside of the big North American cities
 * [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
 * [Talent Sourcing Seniority Ladder](https://docs.google.com/spreadsheets/d/1g5VvxQwaC4L8RI8zPZXeXj0_YnFz1XWKx48s0i9jvxU/edit?usp=sharing): Denys shares an example of a career progression framework for Talent Sourcers. Wanted to capture this as a I find Sourcers don't get as much attention or love in most Talent Acquisition organizations.
 * [Talent Sourcing Technical Toolbox](https://wizardsourcer.com/tools/): WizardSourcer is a great place to find different tools to incorporate into your TA tech stack, from things like Boolean generators, Email finders, Github scrapers, Customized Search Engines and much more. Must read if you're constantly on the hunt to improve your TA tech stack.
@@ -66,7 +64,7 @@ Over the last decade, I've really enjoyed partnering with UX, Security, Internal
 * [Wizard Sourcer](https://wizardsourcer.com/tools/): Fantastic website/resource for Boolean strings, recruiter templates and deep dives into different technologies used by Recruiters. I tinker around with new tools and this has been a great resource!
 * [SOSUV](https://sourcingsummit.net/sosuv/)- Great community of passionate talent sourcing professionals! SOSUV runs conferences & meet-ups throughout the year, great community to be involved in. Heavy European Talent Sourcing representation.
 * [PromptMates](https://www.promptmates.ai/): I recently joined this community of AI builders. Highly recommend if you want to find a circle of very smart, hands-on builders in the recruiting space.
-* [No Stupid Questions](https://no-stupid-questions.vercel.app/): very great ELI5 resource on AI, Terminal, MCP basics. 
+* [No Stupid Questions](https://no-stupid-questions.vercel.app/): very great ELI5 resource on AI, Terminal, MCP basics.
 
 ### **Books:**
 * ["Carry That Quota" - Jesse Rothstein](https://jesserothstein.com/): This really resonated, recruiting is definitely a hybrid between sales and human resources. Gives great suggestions on how a sales focused individual can manage output.
